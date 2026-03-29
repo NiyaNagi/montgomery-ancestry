@@ -6,13 +6,13 @@
 | Feature Proposal | @FeaturePlanner | ✅ Complete | 2026-03-29 | `forge-pipeline/01-feature-proposal.md` |
 | Design Spec | @SpecWriter | ✅ Complete | 2026-03-29 | `forge-pipeline/02-spec.md` |
 | Spec Review | @SpecReviewer + @Designer | ✅ Complete | 2026-03-29 | `forge-pipeline/03-spec-review.md` |
-| Implementation Plan | @ImplementationPlanner | ⬜ Not Started | | |
+| Implementation Plan | @ImplementationPlanner | ✅ Complete | 2025-07-17 | `forge-pipeline/04-impl-plan.md` |
 | Implementation | Engineer+Copilot | ✅ Complete | 2025-07-17 | `js/*.js`, `css/styles.css`, `index.html` |
 | Code Review | @CodeReviewer | ✅ Complete | 2025-07-17 | `forge-pipeline/05-code-review.md` |
 | Test Plan | @TestPlanner | ✅ Complete | 2026-03-29 | `forge-pipeline/06-test-plan.md` |
 | Ship | GitHub Pages | ⬜ Not Started | | |
 | Flight Monitoring | @FlightMonitor | ✅ Complete | 2025-07-15 | `forge-pipeline/07-flight-plan.md` |
-| Pipeline Grading | @ForgeGrader | ⬜ Not Started | | |
+| Pipeline Grading | @ForgeGrader | ✅ Complete | 2025-07-17 | `forge-pipeline/08-grade.md` |
 
 <!-- Status values: ⬜ Not Started | 🔄 In Progress | ✅ Complete | ⚠️ Blocked | ❌ Failed -->
 
