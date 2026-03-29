@@ -331,9 +331,10 @@
       "residences": null,
       "familyLine": "thompson",
       "confidence": "LOW",
-      "notes": null,
+      "notes": "Document variant spelling: 'Jonathoan'. Likely a period spelling or typo in the original typed source.",
       "sources": [
-        "Family photos"
+        "Family photos",
+        "Additional photo IMG_3164 (clearer copy)"
       ],
       "parentFamilyId": "family-thompson-patriarch",
       "spouseFamilyIds": []
@@ -394,36 +395,6 @@
         "family-betsy-thompson-j-glass"
       ]
     },
-    "emeline-thompson-1813": {
-      "id": "emeline-thompson-1813",
-      "firstName": "Emeline",
-      "middleName": null,
-      "lastName": "Thompson",
-      "maidenName": null,
-      "gender": "female",
-      "birthDate": "1813",
-      "birthPlace": null,
-      "deathDate": "1895",
-      "deathPlace": null,
-      "burialPlace": null,
-      "occupation": null,
-      "education": null,
-      "militaryService": null,
-      "religion": null,
-      "immigration": null,
-      "residences": null,
-      "familyLine": "thompson",
-      "confidence": "LOW",
-      "notes": "m. J. Hill; m. L. McGuinness",
-      "sources": [
-        "Family photos"
-      ],
-      "parentFamilyId": "family-charles-thompson-millicent-betts",
-      "spouseFamilyIds": [
-        "family-emeline-thompson-j-hill",
-        "family-emeline-thompson-l-mcguinness"
-      ]
-    },
     "lucinda-thompson-1817": {
       "id": "lucinda-thompson-1817",
       "firstName": "Lucinda",
@@ -433,7 +404,7 @@
       "gender": "female",
       "birthDate": "1817",
       "birthPlace": null,
-      "deathDate": null,
+      "deathDate": "1892",
       "deathPlace": null,
       "burialPlace": null,
       "occupation": null,
@@ -443,42 +414,16 @@
       "immigration": null,
       "residences": null,
       "familyLine": "thompson",
-      "confidence": "LOW",
-      "notes": "Death year uncertain: 1892 or 1902. m. B. Bennett",
+      "confidence": "MEDIUM",
+      "notes": "Death year confirmed as 1892 per IMG_3164. m. B. Bennett",
       "sources": [
-        "Family photos"
+        "Family photos",
+        "Additional photo IMG_3164 (clearer copy)"
       ],
       "parentFamilyId": "family-charles-thompson-millicent-betts",
       "spouseFamilyIds": [
         "family-lucinda-thompson-1817-b-bennett"
       ]
-    },
-    "belinda-thompson-1820": {
-      "id": "belinda-thompson-1820",
-      "firstName": "Belinda",
-      "middleName": null,
-      "lastName": "Thompson",
-      "maidenName": null,
-      "gender": "female",
-      "birthDate": "1820",
-      "birthPlace": null,
-      "deathDate": null,
-      "deathPlace": null,
-      "burialPlace": null,
-      "occupation": null,
-      "education": null,
-      "militaryService": null,
-      "religion": null,
-      "immigration": null,
-      "residences": null,
-      "familyLine": "thompson",
-      "confidence": "LOW",
-      "notes": null,
-      "sources": [
-        "Family photos"
-      ],
-      "parentFamilyId": "family-charles-thompson-millicent-betts",
-      "spouseFamilyIds": []
     },
     "calvin-thompson-1822": {
       "id": "calvin-thompson-1822",
@@ -530,62 +475,6 @@
         "family-calvin-thompson-serene-chamberlain",
         "family-calvin-thompson-charlotte-brown"
       ]
-    },
-    "harriette-thompson-1824": {
-      "id": "harriette-thompson-1824",
-      "firstName": "Harriette",
-      "middleName": null,
-      "lastName": "Thompson",
-      "maidenName": null,
-      "gender": "female",
-      "birthDate": "1824",
-      "birthPlace": null,
-      "deathDate": "1888",
-      "deathPlace": null,
-      "burialPlace": null,
-      "occupation": null,
-      "education": null,
-      "militaryService": null,
-      "religion": null,
-      "immigration": null,
-      "residences": null,
-      "familyLine": "thompson",
-      "confidence": "LOW",
-      "notes": "m. H. Shedd",
-      "sources": [
-        "Family photos"
-      ],
-      "parentFamilyId": "family-charles-thompson-millicent-betts",
-      "spouseFamilyIds": [
-        "family-harriette-thompson-h-shedd"
-      ]
-    },
-    "charles-f-thompson-1827": {
-      "id": "charles-f-thompson-1827",
-      "firstName": "Charles",
-      "middleName": "F.",
-      "lastName": "Thompson",
-      "maidenName": null,
-      "gender": "male",
-      "birthDate": "1827",
-      "birthPlace": null,
-      "deathDate": null,
-      "deathPlace": null,
-      "burialPlace": null,
-      "occupation": null,
-      "education": null,
-      "militaryService": null,
-      "religion": null,
-      "immigration": null,
-      "residences": null,
-      "familyLine": "thompson",
-      "confidence": "LOW",
-      "notes": "m. Wm. Bones (?)",
-      "sources": [
-        "Family photos"
-      ],
-      "parentFamilyId": "family-charles-thompson-millicent-betts",
-      "spouseFamilyIds": []
     },
     "jane-thompson-1830": {
       "id": "jane-thompson-1830",
@@ -4054,7 +3943,7 @@
       ],
       "parentFamilyId": null,
       "spouseFamilyIds": [
-        "family-emeline-thompson-j-hill"
+        "family-emmaline-thompson-j-hill"
       ]
     },
     "l-mcguinness": {
@@ -4083,7 +3972,7 @@
       ],
       "parentFamilyId": null,
       "spouseFamilyIds": [
-        "family-emeline-thompson-l-mcguinness"
+        "family-emmaline-thompson-l-mcguinness"
       ]
     },
     "b-bennett": {
@@ -4135,13 +4024,13 @@
       "residences": null,
       "familyLine": "thompson",
       "confidence": "LOW",
-      "notes": "Spouse of Harriette Thompson.",
+      "notes": "Spouse of Mariette Thompson.",
       "sources": [
         "Family photos"
       ],
       "parentFamilyId": null,
       "spouseFamilyIds": [
-        "family-harriette-thompson-h-shedd"
+        "family-mariette-thompson-h-shedd"
       ]
     },
     "jos-bruner": {
@@ -5407,6 +5296,717 @@
       "spouseFamilyIds": [
         "family-edward-f-rowe-jr-stephanie"
       ]
+    },
+    "melinda-thompson-1820": {
+      "id": "melinda-thompson-1820",
+      "firstName": "Melinda",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1820",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "Corrected from 'Belinda' per clearer photo IMG_3164",
+      "sources": [
+        "Family photos",
+        "Additional photo IMG_3164 (clearer copy)"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": []
+    },
+    "mariette-thompson-1824": {
+      "id": "mariette-thompson-1824",
+      "firstName": "Mariette",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1824",
+      "birthPlace": null,
+      "deathDate": "1888",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "m. H. Shedd. Corrected from 'Harriette' per IMG_3164.",
+      "sources": [
+        "Family photos",
+        "Additional photo IMG_3164 (clearer copy)"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-mariette-thompson-h-shedd"
+      ]
+    },
+    "charles-p-thompson-1827": {
+      "id": "charles-p-thompson-1827",
+      "firstName": "Charles",
+      "middleName": "P.",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1827",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "m. Wm. Bowes. Middle initial corrected from 'F.' to 'P.' per IMG_3164.",
+      "sources": [
+        "Family photos",
+        "Additional photo IMG_3164 (clearer copy)"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": []
+    },
+    "emmaline-thompson-1813": {
+      "id": "emmaline-thompson-1813",
+      "firstName": "Emmaline",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1813",
+      "birthPlace": null,
+      "deathDate": "1895",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "May also be 'Emeline' or 'Emma'. Clearer photo (IMG_3164) shows 'Emmaline'. m. J. Hill; m. L. McGuinness",
+      "sources": [
+        "Family photos",
+        "Additional photo IMG_3164 (clearer copy)"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-emmaline-thompson-j-hill",
+        "family-emmaline-thompson-l-mcguinness"
+      ]
+    },
+    "james-stevens": {
+      "id": "james-stevens",
+      "firstName": "James",
+      "middleName": null,
+      "lastName": "Stevens",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "~1929",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board family tree (IMG_4933). Possible descendant of Hattie Northwood & Doug Stevens.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-james-stevens-wife"
+      ]
+    },
+    "betty-jane-unknown": {
+      "id": "betty-jane-unknown",
+      "firstName": "Betty Jane",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "~1927",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933, left side). Connected to unreadable male note. Marriage date possibly 5/1/1943.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-betty-jane-husband"
+      ]
+    },
+    "charlotte-unknown-1926": {
+      "id": "charlotte-unknown-1926",
+      "firstName": "Charlotte",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "~1926",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933, left side). Connected to male note possibly reading Charles. NOT the same as Charlotte Brown (1840-1894).",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-charlotte-unknown-spouse"
+      ]
+    },
+    "karen-anne-unknown": {
+      "id": "karen-anne-unknown",
+      "firstName": "Karen Anne",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Central figure on poster-board (IMG_4933), highlighted inside a drawn rectangle. Connected to husband (name unreadable) and children including Lauren. Marriage date possibly ~4/15/1965.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-karen-anne-husband"
+      ]
+    },
+    "lauren-unknown": {
+      "id": "lauren-unknown",
+      "firstName": "Lauren",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933), positioned below the boxed Karen Anne family unit. Likely daughter of Karen Anne.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": "family-karen-anne-husband",
+      "spouseFamilyIds": []
+    },
+    "oliver-unknown": {
+      "id": "oliver-unknown",
+      "firstName": "Oliver",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933, center-right). Connected to female note possibly reading Diane/Diana. Possibly Oliver Stewart.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-oliver-diane"
+      ]
+    },
+    "diane-unknown": {
+      "id": "diane-unknown",
+      "firstName": "Diane",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "~1966",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933). Connected to Oliver. Possibly Diane Stewart or Scott.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-oliver-diane"
+      ]
+    },
+    "kimberly-unknown": {
+      "id": "kimberly-unknown",
+      "firstName": "Kimberly",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933, upper area). Possibly Kimberly Sue.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg"
+      ],
+      "parentFamilyId": "family-oliver-diane",
+      "spouseFamilyIds": []
+    },
+    "margaret-blanch-unknown": {
+      "id": "margaret-blanch-unknown",
+      "firstName": "Margaret",
+      "middleName": "Blanch",
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933/4934). Prominent position suggests family matriarch in this branch. Connected to Marshall below.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg",
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-margaret-blanch-spouse"
+      ]
+    },
+    "marshall-unknown": {
+      "id": "marshall-unknown",
+      "firstName": "Marshall",
+      "middleName": "Elton",
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933/4934). Connected below Margaret Blanch. Possibly Marshall Elton.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg",
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-margaret-blanch-spouse",
+      "spouseFamilyIds": []
+    },
+    "alonzo-unknown": {
+      "id": "alonzo-unknown",
+      "firstName": "Alonzo",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "~1926",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, upper-left). Part of a column of male family members. If a Jones, could be a sibling of Clyde Edward Jones or from an earlier generation.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-alonzo-partner"
+      ]
+    },
+    "jonathan-unknown-jones": {
+      "id": "jonathan-unknown-jones",
+      "firstName": "Jonathan",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, left side). Below Alonzo in the same column. Possibly Jones.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-alonzo-partner",
+      "spouseFamilyIds": []
+    },
+    "daniel-jones-unknown": {
+      "id": "daniel-jones-unknown",
+      "firstName": "Daniel",
+      "middleName": null,
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, center-left). The Jones surname is readable. May be a descendant of Clyde Edward Jones & Margaret Marie Crissey.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-daniel-jones-kathleen"
+      ]
+    },
+    "dorothy-unknown-jones": {
+      "id": "dorothy-unknown-jones",
+      "firstName": "Dorothy",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, upper-left). May appear more than once. Possibly Dorothy Christine or Dorothy Jones.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-alonzo-partner",
+      "spouseFamilyIds": []
+    },
+    "constance-unknown": {
+      "id": "constance-unknown",
+      "firstName": "Constance",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, left). Part of the same family cluster as Alonzo, Jonathan, Dorothy.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-alonzo-partner",
+      "spouseFamilyIds": []
+    },
+    "kathleen-ann-unknown": {
+      "id": "kathleen-ann-unknown",
+      "firstName": "Kathleen Ann",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, center). Connected to Daniel Jones cluster.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-daniel-jones-kathleen"
+      ]
+    },
+    "evelyn-bertha-unknown": {
+      "id": "evelyn-bertha-unknown",
+      "firstName": "Evelyn",
+      "middleName": "Bertha",
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, center). Part of a descendant cluster.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-daniel-jones-kathleen",
+      "spouseFamilyIds": []
+    },
+    "jordan-frances-unknown": {
+      "id": "jordan-frances-unknown",
+      "firstName": "Jordan",
+      "middleName": "Frances",
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, center-lower). Positioned as a descendant in the tree.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-daniel-jones-kathleen",
+      "spouseFamilyIds": []
+    },
+    "dorene-unknown": {
+      "id": "dorene-unknown",
+      "firstName": "Dorene",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, lower-right). If surname is Frost, may connect to Edward Frost Rowe family line.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-steve-dorene"
+      ]
+    },
+    "steve-unknown": {
+      "id": "steve-unknown",
+      "firstName": "Steve",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4934, lower-right). Near Dorene; possibly same family. Possibly Frost.",
+      "sources": [
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-steve-dorene"
+      ]
+    },
+    "david-unknown-poster": {
+      "id": "david-unknown-poster",
+      "firstName": "David",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [],
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Visible on poster-board (IMG_4933/4934). Appears in right-side cluster near Margaret Blanch. NOT the same as David Michael Montgomery.",
+      "sources": [
+        "Photos/additional/IMG_4933.jpg",
+        "Photos/additional/IMG_4934.jpg"
+      ],
+      "parentFamilyId": "family-margaret-blanch-spouse",
+      "spouseFamilyIds": []
     }
   }
 }

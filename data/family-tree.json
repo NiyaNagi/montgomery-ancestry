@@ -2,7 +2,7 @@
   "meta": {
     "title": "Montgomery Family Tree",
     "generated": "2025-07-15",
-    "totalPeople": 174,
+    "totalPeople": 195,
     "familyLines": [
       "thompson",
       "holmes",
@@ -40,12 +40,12 @@
       "marriagePlace": "Herkimer, New York",
       "children": [
         "betsy-thompson-1810",
-        "emeline-thompson-1813",
+        "emmaline-thompson-1813",
         "lucinda-thompson-1817",
-        "belinda-thompson-1820",
+        "melinda-thompson-1820",
         "calvin-thompson-1822",
-        "harriette-thompson-1824",
-        "charles-f-thompson-1827",
+        "mariette-thompson-1824",
+        "charles-p-thompson-1827",
         "jane-thompson-1830",
         "sally-maria-thompson-1834"
       ]
@@ -477,17 +477,17 @@
       "children": []
     },
     {
-      "id": "family-emeline-thompson-j-hill",
+      "id": "family-emmaline-thompson-j-hill",
       "husband": "j-hill",
-      "wife": "emeline-thompson-1813",
+      "wife": "emmaline-thompson-1813",
       "marriageDate": null,
       "marriagePlace": null,
       "children": []
     },
     {
-      "id": "family-emeline-thompson-l-mcguinness",
+      "id": "family-emmaline-thompson-l-mcguinness",
       "husband": "l-mcguinness",
-      "wife": "emeline-thompson-1813",
+      "wife": "emmaline-thompson-1813",
       "marriageDate": null,
       "marriagePlace": null,
       "children": []
@@ -501,9 +501,9 @@
       "children": []
     },
     {
-      "id": "family-harriette-thompson-h-shedd",
+      "id": "family-mariette-thompson-h-shedd",
       "husband": "h-shedd",
-      "wife": "harriette-thompson-1824",
+      "wife": "mariette-thompson-1824",
       "marriageDate": null,
       "marriagePlace": null,
       "children": []
@@ -616,6 +616,92 @@
       "id": "family-edward-f-rowe-jr-stephanie",
       "husband": "edward-f-rowe-jr",
       "wife": "stephanie-rowe",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-james-stevens-wife",
+      "husband": "james-stevens",
+      "wife": null,
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-karen-anne-husband",
+      "husband": null,
+      "wife": "karen-anne-unknown",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "lauren-unknown"
+      ]
+    },
+    {
+      "id": "family-betty-jane-husband",
+      "husband": null,
+      "wife": "betty-jane-unknown",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-oliver-diane",
+      "husband": "oliver-unknown",
+      "wife": "diane-unknown",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "kimberly-unknown"
+      ]
+    },
+    {
+      "id": "family-daniel-jones-kathleen",
+      "husband": "daniel-jones-unknown",
+      "wife": "kathleen-ann-unknown",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "evelyn-bertha-unknown",
+        "jordan-frances-unknown"
+      ]
+    },
+    {
+      "id": "family-margaret-blanch-spouse",
+      "husband": null,
+      "wife": "margaret-blanch-unknown",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "marshall-unknown",
+        "david-unknown-poster"
+      ]
+    },
+    {
+      "id": "family-alonzo-partner",
+      "husband": "alonzo-unknown",
+      "wife": null,
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "jonathan-unknown-jones",
+        "dorothy-unknown-jones",
+        "constance-unknown"
+      ]
+    },
+    {
+      "id": "family-steve-dorene",
+      "husband": "steve-unknown",
+      "wife": "dorene-unknown",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-charlotte-unknown-spouse",
+      "husband": null,
+      "wife": "charlotte-unknown-1926",
       "marriageDate": null,
       "marriagePlace": null,
       "children": []
