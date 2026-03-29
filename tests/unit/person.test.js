@@ -25,8 +25,8 @@ describe('Person Module', () => {
     });
 
     test('formats lifespan with no death date (historical)', () => {
-      const belinda = getPerson('belinda-thompson-1820');
-      expect(formatLifespan(belinda)).toBe('b. 1820');
+      const melinda = getPerson('melinda-thompson-1820');
+      expect(formatLifespan(melinda)).toBe('b. 1820');
     });
 
     test('formats lifespan for living person', () => {
@@ -84,8 +84,8 @@ describe('Person Module', () => {
       expect(spouses[1].marriagePlace).toBe('Chatham, Ontario, Canada');
     });
 
-    test('Belinda Thompson has no marriages', () => {
-      const spouses = getSpouses('belinda-thompson-1820');
+    test('Melinda Thompson has no marriages', () => {
+      const spouses = getSpouses('melinda-thompson-1820');
       expect(spouses.length).toBe(0);
     });
 
@@ -225,9 +225,9 @@ describe('Person Module', () => {
       expect(isLiving(fred)).toBe(false);
     });
 
-    test('Belinda Thompson is not living (born 1820)', () => {
-      const belinda = getPerson('belinda-thompson-1820');
-      expect(isLiving(belinda)).toBe(false);
+    test('Melinda Thompson is not living (born 1820)', () => {
+      const melinda = getPerson('melinda-thompson-1820');
+      expect(isLiving(melinda)).toBe(false);
     });
 
     test('person born after 1920 without death date is living', () => {
@@ -320,10 +320,10 @@ describe('Person Module', () => {
   describe('Edge Cases', () => {
 
     test('person with no dates, no location, no occupation', () => {
-      const belinda = getPerson('belinda-thompson-1820');
-      expect(formatDate(belinda.deathDate)).toBeNull();
-      expect(belinda.occupation).toBeNull();
-      expect(belinda.birthPlace).toBeNull();
+      const melinda = getPerson('melinda-thompson-1820');
+      expect(formatDate(melinda.deathDate)).toBeNull();
+      expect(melinda.occupation).toBeNull();
+      expect(melinda.birthPlace).toBeNull();
     });
 
     test('person with multiple occupations (Fred Thompson)', () => {
@@ -365,14 +365,14 @@ describe('Person Module', () => {
     });
 
     test('data density: sparse person has few filled fields', () => {
-      const belinda = getPerson('belinda-thompson-1820');
+      const melinda = getPerson('melinda-thompson-1820');
       let count = 0;
-      if (belinda.birthDate) count++;
-      if (belinda.birthPlace) count++;
-      if (belinda.deathDate) count++;
-      if (belinda.occupation) count++;
-      if (belinda.education) count++;
-      if (belinda.notes) count++;
+      if (melinda.birthDate) count++;
+      if (melinda.birthPlace) count++;
+      if (melinda.deathDate) count++;
+      if (melinda.occupation) count++;
+      if (melinda.education) count++;
+      // notes has correction info, so exclude from "sparse" count
       expect(count).toBeLessThan(3);
     });
 

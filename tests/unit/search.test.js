@@ -1,7 +1,7 @@
 /**
  * Unit Tests — Search Module
  * Tests for client-side search logic, filtering, and ranking
- * across the 174-person Montgomery family tree.
+ * across the 195-person Montgomery family tree.
  *
  * Source: forge-pipeline/06-test-plan.md, Section 3.2
  */
@@ -39,11 +39,11 @@ describe('Search Module', () => {
     });
 
     test('empty query returns all people', () => {
-      expect(searchPeople('').length).toBe(174);
+      expect(searchPeople('').length).toBe(195);
     });
 
     test('whitespace-only query returns all people', () => {
-      expect(searchPeople('   ').length).toBe(174);
+      expect(searchPeople('   ').length).toBe(195);
     });
 
     test('no match returns empty array', () => {

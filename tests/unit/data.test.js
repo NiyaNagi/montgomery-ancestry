@@ -1,7 +1,7 @@
 /**
  * Unit Tests — Data Module
  * Tests for data loading, parsing, graph construction, traversal, and formatting
- * of the 174-person Montgomery family tree.
+ * of the 195-person Montgomery family tree.
  *
  * Source: forge-pipeline/06-test-plan.md, Section 3.1
  */
@@ -25,8 +25,8 @@ describe('Data Module', () => {
 
   describe('Loading & Parsing', () => {
 
-    test('people object contains 174 entries', () => {
-      expect(Object.keys(people).length).toBe(174);
+    test('people object contains 195 entries', () => {
+      expect(Object.keys(people).length).toBe(195);
     });
 
     test('families array is non-empty', () => {
@@ -36,7 +36,7 @@ describe('Data Module', () => {
     test('meta contains expected fields', () => {
       const m = getMeta();
       expect(m.title).toBe('Montgomery Family Tree');
-      expect(m.totalPeople).toBe(174);
+      expect(m.totalPeople).toBe(195);
       expect(m.familyLines).toEqual(expect.arrayContaining(['thompson', 'holmes', 'montgomery']));
     });
 
@@ -285,7 +285,7 @@ describe('Data Module', () => {
     });
 
     test('person with no children returns empty spouseFamilies', () => {
-      const tree = getDescendants('belinda-thompson-1820', 3);
+      const tree = getDescendants('melinda-thompson-1820', 3);
       expect(tree.spouseFamilies.length).toBe(0);
     });
 
@@ -336,12 +336,12 @@ describe('Data Module', () => {
 
     test('empty query returns all people (no filter)', () => {
       const results = searchPeople('');
-      expect(results.length).toBe(174);
+      expect(results.length).toBe(195);
     });
 
     test('whitespace-only query returns all people', () => {
       const results = searchPeople('   ');
-      expect(results.length).toBe(174);
+      expect(results.length).toBe(195);
     });
 
     test('partial name "Isa" returns both Isabellas', () => {
@@ -531,8 +531,8 @@ describe('Data Module', () => {
     });
 
     test('formats birth-only for old person with no death date', () => {
-      const belinda = getPerson('belinda-thompson-1820');
-      expect(formatLifespan(belinda)).toBe('b. 1820');
+      const melinda = getPerson('melinda-thompson-1820');
+      expect(formatLifespan(melinda)).toBe('b. 1820');
     });
 
     test('formats "b. YEAR" for living person', () => {
@@ -731,8 +731,8 @@ describe('Data Module', () => {
       expect(p.deathDate).toBeNull();
     });
 
-    test('belinda-thompson-1820: sparse person (name, birth year only)', () => {
-      const p = getPerson('belinda-thompson-1820');
+    test('melinda-thompson-1820: sparse person (name, birth year only)', () => {
+      const p = getPerson('melinda-thompson-1820');
       expect(p.occupation).toBeNull();
       expect(p.deathDate).toBeNull();
       expect(p.birthPlace).toBeNull();
