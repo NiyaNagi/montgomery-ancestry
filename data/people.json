@@ -1,0 +1,5412 @@
+{
+  "people": {
+    "thompson-patriarch": {
+      "id": "thompson-patriarch",
+      "firstName": "Unknown",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": [
+        "Likely fought in the American Revolutionary War"
+      ],
+      "religion": null,
+      "immigration": {
+        "from": "Scotland (uncertain)",
+        "to": "New York"
+      },
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "The patriarch is likely the father of Samuel, Calvin (1771), and Charles (1783). His first name is unknown. Family tradition of Rev. War service may apply to him.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-thompson-patriarch"
+      ]
+    },
+    "samuel-thompson-1767": {
+      "id": "samuel-thompson-1767",
+      "firstName": "Samuel",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1767-03-15",
+      "birthPlace": "Chatham, Columbia County, New York",
+      "deathDate": null,
+      "deathPlace": "De Ruyter, Madison County, New York",
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": [
+        "Claimed snare drummer in American Revolutionary War"
+      ],
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Columbia County, New York",
+          "period": "1767-?"
+        },
+        {
+          "place": "De Ruyter, Madison County, New York",
+          "period": "?-~1857"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "WikiTree Thompson-18251; FamilySearch KPH9-K5X. Death estimated ~1840-1857.",
+      "sources": [
+        "WikiTree Thompson-18251",
+        "FamilySearch KPH9-K5X"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": []
+    },
+    "daniel-thompson-1769": {
+      "id": "daniel-thompson-1769",
+      "firstName": "Daniel",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1769",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Date notation ambiguous (3/4/1769?).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": []
+    },
+    "calvin-thompson-1771": {
+      "id": "calvin-thompson-1771",
+      "firstName": "Calvin",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1771",
+      "birthPlace": "Connecticut or New York",
+      "deathDate": "1827-08-22",
+      "deathPlace": "Sand Lake, Rensselaer County, New York",
+      "burialPlace": "Sand Lake Union Cemetery, Sand Lake, New York",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Sand Lake, Rensselaer County, New York",
+          "period": "?-1827"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "Find a Grave #83204843. Will dated 1827 at Sand Lake mentions Theda C., Benjamin, Sarah Murphy.",
+      "sources": [
+        "Find a Grave #83204843",
+        "FamilySearch LHPH-R98"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": []
+    },
+    "lucinda-thompson-1771": {
+      "id": "lucinda-thompson-1771",
+      "firstName": "Lucinda",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1771",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": [
+        "family-lucinda-thompson-zacheus-curtis"
+      ]
+    },
+    "joanna-thompson-1777": {
+      "id": "joanna-thompson-1777",
+      "firstName": "Joanna",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1777",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": [
+        "family-joanna-thompson-john-merrill"
+      ]
+    },
+    "luther-thompson-1779": {
+      "id": "luther-thompson-1779",
+      "firstName": "Luther",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1779",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": []
+    },
+    "sally-thompson-1782": {
+      "id": "sally-thompson-1782",
+      "firstName": "Sally",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1782",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": [
+        "family-sally-thompson-smith-murphy"
+      ]
+    },
+    "charles-thompson-1783": {
+      "id": "charles-thompson-1783",
+      "firstName": "Charles",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1783",
+      "birthPlace": null,
+      "deathDate": "1866",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Herkimer, New York",
+          "period": "?-1866"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Of Herkimer, N.Y. Married Millicent Ann Betts.",
+      "sources": [
+        "Ancestry indexes",
+        "Family tradition"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": [
+        "family-charles-thompson-millicent-betts"
+      ]
+    },
+    "millicent-ann-betts": {
+      "id": "millicent-ann-betts",
+      "firstName": "Millicent",
+      "middleName": "Ann",
+      "lastName": "Betts",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": "Herkimer, New York",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Of Herkimer, N.Y. Named in descendant records only.",
+      "sources": [
+        "Ancestry descendant records"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-charles-thompson-millicent-betts"
+      ]
+    },
+    "jonathan-thompson-1785": {
+      "id": "jonathan-thompson-1785",
+      "firstName": "Jonathan",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1785",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": []
+    },
+    "leonard-thompson-1788": {
+      "id": "leonard-thompson-1788",
+      "firstName": "Leonard",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1788",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thompson-patriarch",
+      "spouseFamilyIds": []
+    },
+    "betsy-thompson-1810": {
+      "id": "betsy-thompson-1810",
+      "firstName": "Betsy",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1810",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "m. J. Glass",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-betsy-thompson-j-glass"
+      ]
+    },
+    "emeline-thompson-1813": {
+      "id": "emeline-thompson-1813",
+      "firstName": "Emeline",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1813",
+      "birthPlace": null,
+      "deathDate": "1895",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "m. J. Hill; m. L. McGuinness",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-emeline-thompson-j-hill",
+        "family-emeline-thompson-l-mcguinness"
+      ]
+    },
+    "lucinda-thompson-1817": {
+      "id": "lucinda-thompson-1817",
+      "firstName": "Lucinda",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1817",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Death year uncertain: 1892 or 1902. m. B. Bennett",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-lucinda-thompson-1817-b-bennett"
+      ]
+    },
+    "belinda-thompson-1820": {
+      "id": "belinda-thompson-1820",
+      "firstName": "Belinda",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1820",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": []
+    },
+    "calvin-thompson-1822": {
+      "id": "calvin-thompson-1822",
+      "firstName": "Calvin",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1822-11-30",
+      "birthPlace": "New York",
+      "deathDate": "1914-06-08",
+      "deathPlace": "Lansing, Ingham County, Michigan",
+      "burialPlace": "Flushing City Cemetery, Flushing, Genesee County, Michigan",
+      "occupation": [
+        "Farmer"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "New York",
+          "period": "1822-~1840s"
+        },
+        {
+          "place": "Flushing, Genesee County, Michigan",
+          "period": "~1840s-~1880s"
+        },
+        {
+          "place": "Reed City, Osceola County, Michigan",
+          "period": "~1880s-~1900s"
+        },
+        {
+          "place": "Lansing, Ingham County, Michigan",
+          "period": "~1900s-1914"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "Buried Flushing City Cemetery (Find a Grave #21578807). Two marriages: 1st to Serene Adams Chamberlain (1849), 2nd to Charlotte Brown (1863).",
+      "sources": [
+        "Find a Grave #21578807",
+        "Ancestry indexes",
+        "FamilySearch"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-calvin-thompson-serene-chamberlain",
+        "family-calvin-thompson-charlotte-brown"
+      ]
+    },
+    "harriette-thompson-1824": {
+      "id": "harriette-thompson-1824",
+      "firstName": "Harriette",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1824",
+      "birthPlace": null,
+      "deathDate": "1888",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "m. H. Shedd",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-harriette-thompson-h-shedd"
+      ]
+    },
+    "charles-f-thompson-1827": {
+      "id": "charles-f-thompson-1827",
+      "firstName": "Charles",
+      "middleName": "F.",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1827",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "m. Wm. Bones (?)",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": []
+    },
+    "jane-thompson-1830": {
+      "id": "jane-thompson-1830",
+      "firstName": "Jane",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1830",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "m. E. Chamberlain",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-jane-thompson-e-chamberlain"
+      ]
+    },
+    "sally-maria-thompson-1834": {
+      "id": "sally-maria-thompson-1834",
+      "firstName": "Sally",
+      "middleName": "Maria",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1834",
+      "birthPlace": null,
+      "deathDate": "1921",
+      "deathPlace": "New York",
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "m. E. Chamberlain. Died in New York.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-charles-thompson-millicent-betts",
+      "spouseFamilyIds": [
+        "family-sally-maria-thompson-e-chamberlain"
+      ]
+    },
+    "serene-chamberlain-1823": {
+      "id": "serene-chamberlain-1823",
+      "firstName": "Serene",
+      "middleName": "Adams",
+      "lastName": "Chamberlain",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1823",
+      "birthPlace": "Littleton, Grafton County, New Hampshire",
+      "deathDate": "1859",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Littleton, New Hampshire",
+          "period": "1823-~1849"
+        },
+        {
+          "place": "Flushing, Genesee County, Michigan",
+          "period": "~1849-1859"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "Mother's maiden name Barney. Of Littleton, N.H.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-calvin-thompson-serene-chamberlain"
+      ]
+    },
+    "charles-e-thompson-1850": {
+      "id": "charles-e-thompson-1850",
+      "firstName": "Charles",
+      "middleName": "E.",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1850",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "Possibly Charles Elliott Thompson. m. Jos. Bruner",
+      "sources": [
+        "Census references"
+      ],
+      "parentFamilyId": "family-calvin-thompson-serene-chamberlain",
+      "spouseFamilyIds": [
+        "family-charles-e-thompson-jos-bruner"
+      ]
+    },
+    "albert-h-thompson-1852": {
+      "id": "albert-h-thompson-1852",
+      "firstName": "Albert",
+      "middleName": "Hoskins",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1852",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "m. S. Chamberlain",
+      "sources": [
+        "Census references"
+      ],
+      "parentFamilyId": "family-calvin-thompson-serene-chamberlain",
+      "spouseFamilyIds": [
+        "family-albert-thompson-s-chamberlain"
+      ]
+    },
+    "elizabeth-r-thompson-1855": {
+      "id": "elizabeth-r-thompson-1855",
+      "firstName": "Elizabeth",
+      "middleName": "Rocelia",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1855",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "m. Melvin Nichols",
+      "sources": [
+        "Census references"
+      ],
+      "parentFamilyId": "family-calvin-thompson-serene-chamberlain",
+      "spouseFamilyIds": [
+        "family-elizabeth-thompson-melvin-nichols"
+      ]
+    },
+    "charlotte-brown-1840": {
+      "id": "charlotte-brown-1840",
+      "firstName": "Charlotte",
+      "middleName": null,
+      "lastName": "Brown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1840",
+      "birthPlace": "Ontario, Canada",
+      "deathDate": "1894-09-14",
+      "deathPlace": "Reed City, Osceola County, Michigan",
+      "burialPlace": "Woodland Cemetery, Reed City, Michigan (Plot P1-E-211-1)",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": {
+        "from": "Ontario, Canada",
+        "to": "Michigan"
+      },
+      "residences": [
+        {
+          "place": "Ontario, Canada",
+          "period": "1840-?"
+        },
+        {
+          "place": "Flushing, Genesee County, Michigan",
+          "period": "?-?"
+        },
+        {
+          "place": "Reed City, Osceola County, Michigan",
+          "period": "?-1894"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "Mother's maiden name James. Find a Grave #139782531.",
+      "sources": [
+        "Find a Grave #139782531"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-calvin-thompson-charlotte-brown"
+      ]
+    },
+    "nettie-thompson-1864": {
+      "id": "nettie-thompson-1864",
+      "firstName": "Nettie",
+      "middleName": "Serene",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1864-06-26",
+      "birthPlace": "Flushing, Genesee County, Michigan",
+      "deathDate": "1897-01-30",
+      "deathPlace": null,
+      "burialPlace": "Reed City, Osceola County, Michigan",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Flushing, Genesee County, Michigan",
+          "period": "1864-?"
+        },
+        {
+          "place": "Reed City, Osceola County, Michigan",
+          "period": "?-1897"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "Named 'Serene' likely in honor of father's first wife. Died young at age 32. Find a Grave #139782145.",
+      "sources": [
+        "Find a Grave #139782145"
+      ],
+      "parentFamilyId": "family-calvin-thompson-charlotte-brown",
+      "spouseFamilyIds": [
+        "family-nettie-thompson-harvey-hawkins"
+      ]
+    },
+    "james-h-thompson-1866": {
+      "id": "james-h-thompson-1866",
+      "firstName": "James",
+      "middleName": "Herbert",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1866-04-06",
+      "birthPlace": "Flushing, Genesee County, Michigan",
+      "deathDate": "1943-12-19",
+      "deathPlace": null,
+      "burialPlace": "Myrtle Hill Memorial Park, Tampa, Hillsborough County, Florida",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Flushing, Genesee County, Michigan",
+          "period": "1866-?"
+        },
+        {
+          "place": "Tampa, Florida",
+          "period": "?-1943"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "Find a Grave #51824428.",
+      "sources": [
+        "Find a Grave #51824428"
+      ],
+      "parentFamilyId": "family-calvin-thompson-charlotte-brown",
+      "spouseFamilyIds": [
+        "family-james-h-thompson-minnie-ardis"
+      ]
+    },
+    "fred-e-thompson-1871": {
+      "id": "fred-e-thompson-1871",
+      "firstName": "Fred",
+      "middleName": "Eugene",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1871-11-08",
+      "birthPlace": "Flushing, Genesee County, Michigan",
+      "deathDate": "1940-08-13",
+      "deathPlace": null,
+      "burialPlace": "White Chapel Memorial Park Cemetery, Troy, Oakland County, Michigan",
+      "occupation": [
+        "Homeopathic physician"
+      ],
+      "education": [
+        "Reed City High School",
+        "Michigan State Normal School, Ypsilanti",
+        "Hahnemann Medical College, Chicago (M.D. 1902)"
+      ],
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Flushing, Michigan",
+          "period": "1871-?"
+        },
+        {
+          "place": "Reed City, Michigan",
+          "period": "?-?"
+        },
+        {
+          "place": "Ypsilanti, Michigan",
+          "period": "?-~1898"
+        },
+        {
+          "place": "Chicago, Illinois",
+          "period": "~1898-1902"
+        },
+        {
+          "place": "Detroit, Michigan",
+          "period": "~1902-?"
+        },
+        {
+          "place": "St. Clair Shores / Grosse Pointe, Michigan",
+          "period": "?-1940"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "M.D. from Hahnemann Medical College (1902). Homeopathic physician in Detroit. Member of Homeopathic Medical Society of Michigan; Mason; Forester; Knight of the Maccabees. Buried at Temple of Memories, 1st floor, Section 159. Find a Grave #143791920.",
+      "sources": [
+        "Find a Grave #143791920",
+        "Homeoint.org biography",
+        "Book of Detroiters"
+      ],
+      "parentFamilyId": "family-calvin-thompson-charlotte-brown",
+      "spouseFamilyIds": [
+        "family-fred-thompson-isabella-holmes"
+      ],
+      "prefix": "Dr."
+    },
+    "rollin-hawkins-1890": {
+      "id": "rollin-hawkins-1890",
+      "firstName": "Rollin",
+      "middleName": null,
+      "lastName": "Hawkins",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1890",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Son of Nettie Serene Thompson & Harvey Hawkins.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-nettie-thompson-harvey-hawkins",
+      "spouseFamilyIds": []
+    },
+    "harry-hawkins-1894": {
+      "id": "harry-hawkins-1894",
+      "firstName": "Harry",
+      "middleName": null,
+      "lastName": "Hawkins",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1894",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Son of Nettie Serene Thompson & Harvey Hawkins.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-nettie-thompson-harvey-hawkins",
+      "spouseFamilyIds": []
+    },
+    "maxwell-thompson-1905": {
+      "id": "maxwell-thompson-1905",
+      "firstName": "Maxwell",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1905",
+      "birthPlace": null,
+      "deathDate": "1907",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "Died in early childhood (not infancy). Son of James Herbert Thompson & Minnie Elizabeth Ardis.",
+      "sources": [
+        "Temple Secret genealogy compilation"
+      ],
+      "parentFamilyId": "family-james-h-thompson-minnie-ardis",
+      "spouseFamilyIds": []
+    },
+    "charlotte-ann-thompson-1909": {
+      "id": "charlotte-ann-thompson-1909",
+      "firstName": "Charlotte",
+      "middleName": "Ann",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1909",
+      "birthPlace": null,
+      "deathDate": "2000",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Daughter of James Herbert Thompson & Minnie Elizabeth Ardis.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": "family-james-h-thompson-minnie-ardis",
+      "spouseFamilyIds": []
+    },
+    "fred-holmes-thompson": {
+      "id": "fred-holmes-thompson",
+      "firstName": "Fred",
+      "middleName": "Holmes",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": [
+        "Dartmouth College"
+      ],
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Detroit / Grosse Pointe, Michigan",
+          "period": "?-?"
+        },
+        {
+          "place": "Wagon Mound, New Mexico",
+          "period": "?-?"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "Dartmouth graduate. Suffered from asthma, which prompted move to dry climate in Wagon Mound, NM. Married Elanor (surname unknown).",
+      "sources": [
+        "Family tradition",
+        "Legacy.com obituary for James Holmes Thompson"
+      ],
+      "parentFamilyId": "family-fred-thompson-isabella-holmes",
+      "spouseFamilyIds": [
+        "family-fred-h-thompson-elanor"
+      ]
+    },
+    "charlotte-isabel-thompson": {
+      "id": "charlotte-isabel-thompson",
+      "firstName": "Charlotte",
+      "middleName": "Isabel",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Died in infancy.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-fred-thompson-isabella-holmes",
+      "spouseFamilyIds": []
+    },
+    "dorothy-elizabeth-thompson": {
+      "id": "dorothy-elizabeth-thompson",
+      "firstName": "Dorothy",
+      "middleName": "Elizabeth",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "MEDIUM",
+      "notes": "m. William Landis. Had cottage at Lake of Bays ('Mont-Land').",
+      "sources": [
+        "Family tradition",
+        "Millicent Montgomery obituary"
+      ],
+      "parentFamilyId": "family-fred-thompson-isabella-holmes",
+      "spouseFamilyIds": [
+        "family-dorothy-thompson-william-landis"
+      ]
+    },
+    "millicent-betts-thompson": {
+      "id": "millicent-betts-thompson",
+      "firstName": "Millicent",
+      "middleName": "Betts",
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1911-08-23",
+      "birthPlace": "Detroit, Michigan",
+      "deathDate": "2003-08-25",
+      "deathPlace": "Kalamazoo, Michigan",
+      "burialPlace": "First Presbyterian Church Columbarium, Fort Wayne, Indiana",
+      "occupation": [
+        "Music teacher",
+        "Newspaper co-owner (Attica Ledger Tribune, Allen County Times, Petersburg Press)"
+      ],
+      "education": [
+        "Grosse Pointe High School",
+        "B.A., Michigan State University"
+      ],
+      "militaryService": null,
+      "religion": "First Presbyterian Church, Fort Wayne, Indiana",
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Detroit, Michigan",
+          "period": "1911-?"
+        },
+        {
+          "place": "Grosse Pointe / St. Clair Shores, Michigan",
+          "period": "?-1952"
+        },
+        {
+          "place": "Attica, Indiana",
+          "period": "1952-~1965"
+        },
+        {
+          "place": "New Haven, Indiana",
+          "period": "~1965-~1990"
+        },
+        {
+          "place": "Kalamazoo, Michigan",
+          "period": "~1990-2003"
+        }
+      ],
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "Named after great-great-grandmother Millicent Ann Betts. Find a Grave #188803217. Died at Borgess Medical Center, Kalamazoo. Cremated.",
+      "sources": [
+        "Obituaries (Kalamazoo Gazette, Fort Wayne Newspapers)",
+        "Find a Grave #188803217"
+      ],
+      "parentFamilyId": "family-fred-thompson-isabella-holmes",
+      "spouseFamilyIds": [
+        "family-donald-montgomery-millicent-thompson"
+      ]
+    },
+    "fritz-thompson": {
+      "id": "fritz-thompson",
+      "firstName": "Fritz",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Son of Fred Holmes Thompson & Elanor. 'Fritz' is a nickname; legal name unknown.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-fred-h-thompson-elanor",
+      "spouseFamilyIds": []
+    },
+    "jimbo-thompson": {
+      "id": "jimbo-thompson",
+      "firstName": "Jimbo",
+      "middleName": null,
+      "lastName": "Thompson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Son of Fred Holmes Thompson & Elanor. 'Jimbo' is a nickname; legal name unknown.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-fred-h-thompson-elanor",
+      "spouseFamilyIds": []
+    },
+    "william-landis-jr": {
+      "id": "william-landis-jr",
+      "firstName": "William",
+      "middleName": null,
+      "lastName": "Landis",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Known as 'Judge'. Son of Dorothy Elizabeth Thompson & William Landis.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": "family-dorothy-thompson-william-landis",
+      "spouseFamilyIds": [],
+      "nickname": "Judge"
+    },
+    "stephen-landis": {
+      "id": "stephen-landis",
+      "firstName": "Stephen",
+      "middleName": null,
+      "lastName": "Landis",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Son of Dorothy Elizabeth Thompson & William Landis.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": "family-dorothy-thompson-william-landis",
+      "spouseFamilyIds": []
+    },
+    "millicent-landis": {
+      "id": "millicent-landis",
+      "firstName": "Millicent",
+      "middleName": null,
+      "lastName": "Landis",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Daughter of Dorothy Elizabeth Thompson & William Landis.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": "family-dorothy-thompson-william-landis",
+      "spouseFamilyIds": []
+    },
+    "henry-gies-hessen": {
+      "id": "henry-gies-hessen",
+      "firstName": "Henry",
+      "middleName": null,
+      "lastName": "Gies",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": "Hessen, Germany",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": {
+        "from": "Hessen, Germany",
+        "to": "Detroit, Michigan",
+        "date": "~1834"
+      },
+      "residences": [
+        {
+          "place": "Hessen, Germany",
+          "period": "?-~1834"
+        },
+        {
+          "place": "Detroit, Michigan",
+          "period": "~1834-?"
+        }
+      ],
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "NOT the documented Johann Heinrich Gies (1798-1865) who married Maria Anna Schmittdiel. Different person with same surname/origin region. Part of Neustaedter Immigration wave to Detroit.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-henry-gies-mary-kuhn"
+      ]
+    },
+    "mary-catherine-kuhn": {
+      "id": "mary-catherine-kuhn",
+      "firstName": "Mary",
+      "middleName": "Catherine",
+      "lastName": "Kuhn",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family records"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-henry-gies-mary-kuhn"
+      ]
+    },
+    "mary-elizabeth-gies": {
+      "id": "mary-elizabeth-gies",
+      "firstName": "Mary",
+      "middleName": "Elizabeth",
+      "lastName": "Gies",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Detroit, Michigan",
+          "period": "?-~1835"
+        },
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "~1835-?"
+        }
+      ],
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1835 William Smyth",
+      "sources": [
+        "Family records"
+      ],
+      "parentFamilyId": "family-henry-gies-mary-kuhn",
+      "spouseFamilyIds": [
+        "family-william-smyth-mary-gies"
+      ]
+    },
+    "christina-gies": {
+      "id": "christina-gies",
+      "firstName": "Christina",
+      "middleName": null,
+      "lastName": "Gies",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family records"
+      ],
+      "parentFamilyId": "family-henry-gies-mary-kuhn",
+      "spouseFamilyIds": []
+    },
+    "catherine-gies": {
+      "id": "catherine-gies",
+      "firstName": "Catherine",
+      "middleName": null,
+      "lastName": "Gies",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family records"
+      ],
+      "parentFamilyId": "family-henry-gies-mary-kuhn",
+      "spouseFamilyIds": []
+    },
+    "henry-gies-jr": {
+      "id": "henry-gies-jr",
+      "firstName": "Henry",
+      "middleName": null,
+      "lastName": "Gies",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "Henry Gies Hessen Jr.",
+      "sources": [
+        "Family records"
+      ],
+      "parentFamilyId": "family-henry-gies-mary-kuhn",
+      "spouseFamilyIds": []
+    },
+    "elizabeth-gies": {
+      "id": "elizabeth-gies",
+      "firstName": "Elizabeth",
+      "middleName": null,
+      "lastName": "Gies",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family records"
+      ],
+      "parentFamilyId": "family-henry-gies-mary-kuhn",
+      "spouseFamilyIds": []
+    },
+    "william-smyth": {
+      "id": "william-smyth",
+      "firstName": "William",
+      "middleName": "B.",
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": "Ireland",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": {
+        "from": "Ireland",
+        "to": "Chatham, Ontario, Canada",
+        "date": "before 1835"
+      },
+      "residences": [
+        {
+          "place": "Ireland",
+          "period": "?-~early 1830s"
+        },
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "~early 1830s-?"
+        }
+      ],
+      "familyLine": "smyth-gies",
+      "confidence": "HIGH",
+      "notes": "Irish origin; fled Ireland during Tithe War era. Settled in Chatham, Ontario. Wikipedia confirms via son Henry's article.",
+      "sources": [
+        "Wikipedia (Henry Smyth article)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-william-smyth-mary-gies"
+      ]
+    },
+    "isabella-smyth-1838": {
+      "id": "isabella-smyth-1838",
+      "firstName": "Isabella",
+      "middleName": null,
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1838",
+      "birthPlace": null,
+      "deathDate": "1930",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1838-?"
+        }
+      ],
+      "familyLine": "smyth-gies",
+      "confidence": "MEDIUM",
+      "notes": "First married Mr. Kitchen (~1863, husband died ~1870). Second married Thomas Holmes (1873).",
+      "sources": [
+        "Cross-referenced with Thomas Holmes records"
+      ],
+      "parentFamilyId": "family-william-smyth-mary-gies",
+      "spouseFamilyIds": [
+        "family-isabella-smyth-mr-kitchen",
+        "family-thomas-holmes-isabella-smyth"
+      ]
+    },
+    "henry-smyth-1841": {
+      "id": "henry-smyth-1841",
+      "firstName": "Henry",
+      "middleName": null,
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1841-01-15",
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": "1929-12-23",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [
+        "Lawyer",
+        "Mayor of Chatham (1869-70, 1876)",
+        "Member of Parliament for Kent (1882-87)"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1841-1929"
+        }
+      ],
+      "familyLine": "smyth-gies",
+      "confidence": "HIGH",
+      "notes": "Wikipedia article; m. 1862 Julia O'Brien. Bell Farm investor. Mayor of Chatham. MP for Kent.",
+      "sources": [
+        "Wikipedia"
+      ],
+      "parentFamilyId": "family-william-smyth-mary-gies",
+      "spouseFamilyIds": [
+        "family-henry-smyth-julia-obrien"
+      ]
+    },
+    "mary-smyth-1843": {
+      "id": "mary-smyth-1843",
+      "firstName": "Mary",
+      "middleName": null,
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1843-04-23",
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": "1918-10-13",
+      "deathPlace": "Chatham, Ontario, Canada",
+      "burialPlace": "Maple Leaf Cemetery, Chatham, Ontario",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1843-1918"
+        }
+      ],
+      "familyLine": "smyth-gies",
+      "confidence": "HIGH",
+      "notes": "m. 1862 John Northwood. Find a Grave #125690670.",
+      "sources": [
+        "Find a Grave #125690670"
+      ],
+      "parentFamilyId": "family-william-smyth-mary-gies",
+      "spouseFamilyIds": [
+        "family-john-northwood-mary-smyth"
+      ]
+    },
+    "eliza-smyth-1845": {
+      "id": "eliza-smyth-1845",
+      "firstName": "Eliza",
+      "middleName": null,
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1845",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1867 Wm. Rolls",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-william-smyth-mary-gies",
+      "spouseFamilyIds": [
+        "family-eliza-smyth-wm-rolls"
+      ]
+    },
+    "katherine-smyth-1848": {
+      "id": "katherine-smyth-1848",
+      "firstName": "Katherine",
+      "middleName": null,
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1848",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1866 Chas. Rolls",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-william-smyth-mary-gies",
+      "spouseFamilyIds": [
+        "family-katherine-smyth-chas-rolls"
+      ]
+    },
+    "louisa-smyth-1850": {
+      "id": "louisa-smyth-1850",
+      "firstName": "Louisa",
+      "middleName": null,
+      "lastName": "Smyth",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1850",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1873 George Atkinson",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-william-smyth-mary-gies",
+      "spouseFamilyIds": [
+        "family-louisa-smyth-george-atkinson"
+      ]
+    },
+    "samuel-holmes": {
+      "id": "samuel-holmes",
+      "firstName": "Samuel",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": "Salford, Lancashire, England",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Salford, Lancashire, England",
+          "period": "?-?"
+        }
+      ],
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Find a Grave #85191386 lists him as father of Thomas Holmes.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-samuel-holmes-mary-ives"
+      ]
+    },
+    "mary-ives": {
+      "id": "mary-ives",
+      "firstName": "Mary",
+      "middleName": null,
+      "lastName": "Ives",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Wife of Samuel Holmes.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-samuel-holmes-mary-ives"
+      ]
+    },
+    "david-holmes-sr": {
+      "id": "david-holmes-sr",
+      "firstName": "David",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Family photos",
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "sarah-holmes-sr": {
+      "id": "sarah-holmes-sr",
+      "firstName": "Sarah",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Family photos",
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "mary-holmes-sr": {
+      "id": "mary-holmes-sr",
+      "firstName": "Mary",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Family photos",
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "elizabeth-holmes-sr": {
+      "id": "elizabeth-holmes-sr",
+      "firstName": "Elizabeth",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "rebecca-holmes-sr": {
+      "id": "rebecca-holmes-sr",
+      "firstName": "Rebecca",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "john-holmes-sr": {
+      "id": "john-holmes-sr",
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "richard-holmes-sr": {
+      "id": "richard-holmes-sr",
+      "firstName": "Richard",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Child of Samuel Holmes & Mary Ives.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": []
+    },
+    "thomas-holmes-1817": {
+      "id": "thomas-holmes-1817",
+      "firstName": "Thomas",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1817",
+      "birthPlace": "Salford, Lancashire, England",
+      "deathDate": "1896-04-11",
+      "deathPlace": "Chatham, Ontario, Canada",
+      "burialPlace": "Maple Leaf Cemetery, Chatham, Ontario",
+      "occupation": [
+        "Miller and grain merchant",
+        "6th Mayor of Chatham, Ontario (1873-1875)"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": {
+        "from": "Salford, Lancashire, England",
+        "to": "Chatham, Ontario, Canada",
+        "date": "~1850"
+      },
+      "residences": [
+        {
+          "place": "Salford, Lancashire, England",
+          "period": "1817-~1850"
+        },
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "~1850-1896"
+        }
+      ],
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Death year 1896 per Find a Grave #85191386 (MEDIUM confidence; family says 1892, awaiting Ontario death registration). Two marriages: 1st to Jane Hampson (1839), 2nd to Isabella Smyth (1873). Commemorative Biographical Record of Kent County (1904).",
+      "sources": [
+        "Find a Grave #85191386",
+        "Commemorative Biographical Record of Kent County"
+      ],
+      "parentFamilyId": "family-samuel-holmes-mary-ives",
+      "spouseFamilyIds": [
+        "family-thomas-holmes-jane-hampson",
+        "family-thomas-holmes-isabella-smyth"
+      ]
+    },
+    "jane-hampson": {
+      "id": "jane-hampson",
+      "firstName": "Jane",
+      "middleName": null,
+      "lastName": "Hampson",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Possibly 'Mary Jane Hampson' per FamilySearch record for Thomas Holmes Jr. Presumed deceased before 1873 (Thomas remarried).",
+      "sources": [
+        "Family photos",
+        "FamilySearch LYQ2-8L6"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-thomas-holmes-jane-hampson"
+      ]
+    },
+    "richard-w-holmes": {
+      "id": "richard-w-holmes",
+      "firstName": "Richard",
+      "middleName": "W.",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Son of Thomas Holmes & Jane Hampson.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": []
+    },
+    "david-holmes-jr": {
+      "id": "david-holmes-jr",
+      "firstName": "David",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Son of Thomas Holmes & Jane Hampson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": []
+    },
+    "rebecca-holmes-child": {
+      "id": "rebecca-holmes-child",
+      "firstName": "Rebecca",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Daughter of Thomas Holmes & Jane Hampson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": []
+    },
+    "john-holmes-child": {
+      "id": "john-holmes-child",
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Son of Thomas Holmes & Jane Hampson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": []
+    },
+    "samantha-holmes": {
+      "id": "samantha-holmes",
+      "firstName": "Samantha",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Daughter of Thomas Holmes & Jane Hampson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": []
+    },
+    "mary-holmes-jr": {
+      "id": "mary-holmes-jr",
+      "firstName": "Mary",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Daughter of Thomas Holmes & Jane Hampson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": []
+    },
+    "thomas-holmes-jr": {
+      "id": "thomas-holmes-jr",
+      "firstName": "Thomas",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1847-10-19",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "m. 1871 Mary Jane Jones. FamilySearch LYQ2-8L6.",
+      "sources": [
+        "FamilySearch LYQ2-8L6"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": [
+        "family-thomas-holmes-jr-mary-jane-jones"
+      ],
+      "suffix": "Jr."
+    },
+    "julia-ann-holmes": {
+      "id": "julia-ann-holmes",
+      "firstName": "Julia",
+      "middleName": "Ann",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "m. Rev. James McCrory (of Illinois).",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": [
+        "family-julia-holmes-james-mccrory"
+      ]
+    },
+    "lizzie-holmes": {
+      "id": "lizzie-holmes",
+      "firstName": "Lizzie",
+      "middleName": null,
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "m. H. King. Daughter: Meda 'Gyps' King.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": [
+        "family-lizzie-holmes-h-king"
+      ]
+    },
+    "sarah-melinda-holmes": {
+      "id": "sarah-melinda-holmes",
+      "firstName": "Sarah",
+      "middleName": "Melinda",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "NEW — Not in original family tree photos. Discovered via Find a Grave #85191386. m. Richard Stidson.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": "family-thomas-holmes-jane-hampson",
+      "spouseFamilyIds": [
+        "family-sarah-holmes-richard-stidson"
+      ]
+    },
+    "henry-smyth-holmes": {
+      "id": "henry-smyth-holmes",
+      "firstName": "Henry",
+      "middleName": "Smyth",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1874",
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": "1933",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1874-?"
+        }
+      ],
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "CORRECTED: Wife was Elizabeth Armstrong (1879-1916), NOT 'Winifred' as stated in original tree. 'Winifred' was his DAUGHTER (Winnifred Martin Holmes, 1904-1997). 'C.D. Wooley' from original tree remains unidentified. Children: Henry Jr. (1902), Winnifred Martin (1904-1997), Frederick George (1905-1905, infant), Reginald Theodore (1906-1963). FamilySearch (via Reginald Theodore Holmes profile L8BV-6CF).",
+      "sources": [
+        "FamilySearch"
+      ],
+      "parentFamilyId": "family-thomas-holmes-isabella-smyth",
+      "spouseFamilyIds": [
+        "family-henry-s-holmes-elizabeth-armstrong"
+      ]
+    },
+    "frederic-t-holmes": {
+      "id": "frederic-t-holmes",
+      "firstName": "Frederic",
+      "middleName": "Thomas",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": null,
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-isabella-smyth",
+      "spouseFamilyIds": []
+    },
+    "isabella-edna-holmes-1879": {
+      "id": "isabella-edna-holmes-1879",
+      "firstName": "Isabella",
+      "middleName": "Edna",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1879-03-10",
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": "1937-09-11",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1879-1903"
+        },
+        {
+          "place": "Detroit / Grosse Pointe, Michigan",
+          "period": "1903-1937"
+        }
+      ],
+      "familyLine": "holmes",
+      "confidence": "HIGH",
+      "notes": "Birth year corrected from 1878 to 1879 (March 10). Find a Grave #143791786. m. 27 Oct 1903 Fred Eugene Thompson, M.D.",
+      "sources": [
+        "Find a Grave #143791786",
+        "FamilySearch"
+      ],
+      "parentFamilyId": "family-thomas-holmes-isabella-smyth",
+      "spouseFamilyIds": [
+        "family-fred-thompson-isabella-holmes"
+      ]
+    },
+    "louisa-ives-holmes": {
+      "id": "louisa-ives-holmes",
+      "firstName": "Louisa",
+      "middleName": "Ives",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "m. John Hallam. Children: Isabel (m. Richard Carr), John Jr., Robert.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-thomas-holmes-isabella-smyth",
+      "spouseFamilyIds": [
+        "family-louisa-holmes-john-hallam"
+      ]
+    },
+    "meda-gyps-king": {
+      "id": "meda-gyps-king",
+      "firstName": "Meda",
+      "middleName": null,
+      "lastName": "King",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Daughter of Lizzie Holmes & H. King. Married Sidney Russell Northwood. Nickname 'Gyps'.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-lizzie-holmes-h-king",
+      "spouseFamilyIds": [
+        "family-sidney-northwood-meda-king"
+      ],
+      "nickname": "Gyps"
+    },
+    "donald-montgomery": {
+      "id": "donald-montgomery",
+      "firstName": "Donald",
+      "middleName": "Malcom",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1912",
+      "birthPlace": "Detroit, Michigan",
+      "deathDate": "1990-11-19",
+      "deathPlace": "New Haven, Allen County, Indiana",
+      "burialPlace": "New Haven, Indiana area",
+      "occupation": [
+        "Newspaper publisher",
+        "Owner, Attica Ledger Tribune (1952-1963)",
+        "Owner, Allen County Times (1965+)",
+        "Operator, Petersburg Press"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Detroit, Michigan",
+          "period": "1912-?"
+        },
+        {
+          "place": "Grosse Pointe / St. Clair Shores, Michigan",
+          "period": "?-1952"
+        },
+        {
+          "place": "Attica, Indiana",
+          "period": "1952-~1965"
+        },
+        {
+          "place": "New Haven, Indiana",
+          "period": "~1965-1990"
+        }
+      ],
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Parents UNKNOWN. Died at Brighton Hall Nursing Center. Note unusual spelling 'Malcom' (not Malcolm) consistent across all family documents. Find a Grave #130257550. Bought Attica Ledger Tribune Jan 1952, sold May 1963. Moved to New Haven for Allen County Times and Moon Printing Company.",
+      "sources": [
+        "Obituaries",
+        "Find a Grave #130257550",
+        "Attica Ledger Tribune archives"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-donald-montgomery-millicent-thompson"
+      ]
+    },
+    "lea-ann-montgomery": {
+      "id": "lea-ann-montgomery",
+      "firstName": "Lea",
+      "middleName": "Ann",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Riverside, California",
+          "period": "as of 2003"
+        }
+      ],
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "m. Robert Dawson. Eldest child of Donald & Millicent Montgomery.",
+      "sources": [
+        "Obituaries (Kalamazoo Gazette, Fort Wayne Newspapers)"
+      ],
+      "parentFamilyId": "family-donald-montgomery-millicent-thompson",
+      "spouseFamilyIds": [
+        "family-lea-ann-montgomery-robert-dawson"
+      ]
+    },
+    "dorothy-mary-montgomery": {
+      "id": "dorothy-mary-montgomery",
+      "firstName": "Dorothy",
+      "middleName": "Mary",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1943-06-08",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Denver, Colorado",
+          "period": "as of 2003"
+        }
+      ],
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "m. Paul K. Predecki, Ph.D. (MIT). Paul is Adjunct Emeritus Professor at University of Denver.",
+      "sources": [
+        "Obituaries",
+        "Colorado voter records",
+        "IEEE"
+      ],
+      "parentFamilyId": "family-donald-montgomery-millicent-thompson",
+      "spouseFamilyIds": [
+        "family-dorothy-montgomery-paul-predecki"
+      ]
+    },
+    "david-michael-montgomery": {
+      "id": "david-michael-montgomery",
+      "firstName": "David",
+      "middleName": "Michael",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Fort Wayne, Indiana",
+          "period": "as of 2003"
+        }
+      ],
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "No spouse or children listed in family documents.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": "family-donald-montgomery-millicent-thompson",
+      "spouseFamilyIds": []
+    },
+    "james-eugene-montgomery": {
+      "id": "james-eugene-montgomery",
+      "firstName": "James",
+      "middleName": "Eugene",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Portage, Michigan",
+          "period": "as of 2003"
+        }
+      ],
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "m. Norine Eva Rowe.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": "family-donald-montgomery-millicent-thompson",
+      "spouseFamilyIds": [
+        "family-james-montgomery-norine-rowe"
+      ]
+    },
+    "scott-dawson": {
+      "id": "scott-dawson",
+      "firstName": "Scott",
+      "middleName": null,
+      "lastName": "Dawson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Son of Lea Ann Montgomery & Robert Dawson.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": "family-lea-ann-montgomery-robert-dawson",
+      "spouseFamilyIds": []
+    },
+    "daniel-predecki": {
+      "id": "daniel-predecki",
+      "firstName": "Daniel",
+      "middleName": null,
+      "lastName": "Predecki",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Son of Dorothy Mary Montgomery & Paul Predecki. Nicknamed 'Dan'.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": "family-dorothy-montgomery-paul-predecki",
+      "spouseFamilyIds": [],
+      "nickname": "Dan"
+    },
+    "haley-montgomery": {
+      "id": "haley-montgomery",
+      "firstName": "Haley",
+      "middleName": "Norine",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Daughter of James Eugene Montgomery & Norine Eva Rowe.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": "family-james-montgomery-norine-rowe",
+      "spouseFamilyIds": []
+    },
+    "jennifer-montgomery": {
+      "id": "jennifer-montgomery",
+      "firstName": "Jennifer",
+      "middleName": "Lea",
+      "lastName": "Montgomery",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Daughter of James Eugene Montgomery & Norine Eva Rowe. Nicknamed 'Jenni'.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": "family-james-montgomery-norine-rowe",
+      "spouseFamilyIds": [],
+      "nickname": "Jenni"
+    },
+    "john-northwood": {
+      "id": "john-northwood",
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1837-10-26",
+      "birthPlace": null,
+      "deathDate": "1908-11-09",
+      "deathPlace": "Chatham, Ontario, Canada",
+      "burialPlace": "Maple Leaf Cemetery, Chatham, Ontario",
+      "occupation": [
+        "Entrepreneur",
+        "Flour mill owner (Oshawa, Elora, Manitoba)"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "?-1908"
+        }
+      ],
+      "familyLine": "northwood",
+      "confidence": "HIGH",
+      "notes": "Find a Grave #125690365. Family home at 11 Victoria Avenue, Chatham. Acquired land for Canadian Pacific Railroad development.",
+      "sources": [
+        "Find a Grave #125690365",
+        "CK Physician Tribute"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-john-northwood-mary-smyth"
+      ]
+    },
+    "harry-northwood": {
+      "id": "harry-northwood",
+      "firstName": "Harry",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "?-?"
+        }
+      ],
+      "familyLine": "northwood",
+      "confidence": "MEDIUM",
+      "notes": "Eldest child. Had cottages at Lake of Bays. Called 'Uncle Ed' in family notes (middle name 'Edward' unverified). m. N. Pedlar. Children: Helen (m. Chisholm), Kathleen (m. Edmonson Moore), Grace (m. Dobson).",
+      "sources": [
+        "CK Physician Tribute",
+        "Family notes"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": [
+        "family-harry-northwood-n-pedlar"
+      ]
+    },
+    "edgar-burton-northwood": {
+      "id": "edgar-burton-northwood",
+      "firstName": "Edgar",
+      "middleName": "Burton",
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "MEDIUM",
+      "notes": "NEW — Not in original family tree. 2nd child of John & Mary Northwood. Confirmed by CK Physician Tribute.",
+      "sources": [
+        "CK Physician Tribute"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": []
+    },
+    "alfred-northwood": {
+      "id": "alfred-northwood",
+      "firstName": "Alfred",
+      "middleName": "Ernest",
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1873-07-14",
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": "1943-12-10",
+      "deathPlace": "Chatham, Ontario, Canada",
+      "burialPlace": "Maple Leaf Cemetery, Chatham, Ontario",
+      "occupation": [
+        "Physician (M.D.)",
+        "Medical Officer of Health for Chatham (1932-1943)"
+      ],
+      "education": [
+        "M.B., University of Toronto Faculty of Medicine (1895, honors)"
+      ],
+      "militaryService": null,
+      "religion": "Holy Trinity Anglican Church",
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1873-~1895"
+        },
+        {
+          "place": "Florence, Lambton County, Ontario",
+          "period": "~1895-~1899"
+        },
+        {
+          "place": "Wagon Mound, New Mexico",
+          "period": "~1899-1915"
+        },
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1915-1943"
+        }
+      ],
+      "familyLine": "northwood",
+      "confidence": "HIGH",
+      "notes": "m. 22 May 1901 Monica Hinde (b. 1877, England; d. 15 Sep 1965). Life member of Kent Club; 32nd degree Mason; Canadian Club member. Died in his sleep of heart attack. Find a Grave #110875779. No children recorded. Resided at 11 Victoria Avenue, Chatham (family home).",
+      "sources": [
+        "CK Physician Tribute",
+        "Find a Grave #110875779"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": [
+        "family-alfred-northwood-monica-hinde"
+      ],
+      "prefix": "Dr."
+    },
+    "bertha-northwood": {
+      "id": "bertha-northwood",
+      "firstName": "Bertha",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "MEDIUM",
+      "notes": "4th child of John & Mary Northwood.",
+      "sources": [
+        "CK Physician Tribute"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": []
+    },
+    "hattie-northwood": {
+      "id": "hattie-northwood",
+      "firstName": "Harriett",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "MEDIUM",
+      "notes": "Nickname 'Hattie'. m. Doug Stevens.",
+      "sources": [
+        "CK Physician Tribute",
+        "Family notes"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": [
+        "family-hattie-northwood-doug-stevens"
+      ],
+      "nickname": "Hattie"
+    },
+    "mame-northwood": {
+      "id": "mame-northwood",
+      "firstName": "Mary",
+      "middleName": "E.",
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1880-08-08",
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": "1957-01-04",
+      "deathPlace": null,
+      "burialPlace": "Maple Leaf Cemetery, Chatham, Ontario",
+      "occupation": [
+        "Public health nurse (15 years)"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "1880-1957"
+        }
+      ],
+      "familyLine": "northwood",
+      "confidence": "HIGH",
+      "notes": "Real name Mary E. Northwood; 'Mame' was nickname. Find a Grave #175548594.",
+      "sources": [
+        "Find a Grave #175548594",
+        "CK Physician Tribute"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": [],
+      "nickname": "Mame"
+    },
+    "sidney-northwood": {
+      "id": "sidney-northwood",
+      "firstName": "Sidney",
+      "middleName": "Russell",
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "?-1904"
+        },
+        {
+          "place": "Wagon Mound, New Mexico",
+          "period": "1904-?"
+        }
+      ],
+      "familyLine": "northwood",
+      "confidence": "MEDIUM",
+      "notes": "Moved to Wagon Mound, NM in 1904, connected to brother Alfred's medical practice. m. Meda 'Gyps' King.",
+      "sources": [
+        "CK Physician Tribute",
+        "Family notes"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": [
+        "family-sidney-northwood-meda-king"
+      ]
+    },
+    "dorothy-northwood": {
+      "id": "dorothy-northwood",
+      "firstName": "Dorothy",
+      "middleName": "Mildred",
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": "Chatham, Ontario, Canada",
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [
+        "Nurse"
+      ],
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": {
+        "from": "Chatham, Ontario",
+        "to": "Wagon Mound, New Mexico",
+        "date": "1904-01-05"
+      },
+      "residences": [
+        {
+          "place": "Chatham, Ontario, Canada",
+          "period": "?-1904"
+        },
+        {
+          "place": "Wagon Mound, New Mexico",
+          "period": "1904-?"
+        }
+      ],
+      "familyLine": "northwood",
+      "confidence": "MEDIUM",
+      "notes": "Nurse. Immigrated to Wagon Mound, NM on Jan 5, 1904. 1st owner of the Landis cottage at Lake of Bays.",
+      "sources": [
+        "CK Physician Tribute",
+        "Family notes"
+      ],
+      "parentFamilyId": "family-john-northwood-mary-smyth",
+      "spouseFamilyIds": []
+    },
+    "elizabeth-smith-1885": {
+      "id": "elizabeth-smith-1885",
+      "firstName": "Elizabeth",
+      "middleName": null,
+      "lastName": "Smith",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1885-01",
+      "birthPlace": null,
+      "deathDate": "1885-02",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Died in infancy (~1 month).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": []
+    },
+    "ethel-smith-1886": {
+      "id": "ethel-smith-1886",
+      "firstName": "Ethel",
+      "middleName": null,
+      "lastName": "Smith",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1886-12",
+      "birthPlace": null,
+      "deathDate": "1887-09",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Died in infancy (~9 months).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": []
+    },
+    "freddie-smith-1888": {
+      "id": "freddie-smith-1888",
+      "firstName": "Freddie",
+      "middleName": null,
+      "lastName": "Smith",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1888-09",
+      "birthPlace": null,
+      "deathDate": "1888-10",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Died in infancy (~1 month).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": []
+    },
+    "minnie-may-smith-1883": {
+      "id": "minnie-may-smith-1883",
+      "firstName": "Minnie",
+      "middleName": "May",
+      "lastName": "Smith",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1883-01-12",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Michigan (likely)",
+          "period": "1883-?"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "m. Edward Frost Rowe. Confirmed as mother of George H. Rowe by his obituary ('Minnie (Smith) Rowe').",
+      "sources": [
+        "Family photos",
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-edward-rowe-minnie-smith"
+      ]
+    },
+    "laura-flossie-smith-1891": {
+      "id": "laura-flossie-smith-1891",
+      "firstName": "Laura",
+      "middleName": "Flossie",
+      "lastName": "Smith",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1891-01-12",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "m. John E. Livingstone. Shares Jan 12 birthday with sister Minnie May Smith.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-laura-smith-john-livingstone"
+      ]
+    },
+    "edward-frost-rowe-1878": {
+      "id": "edward-frost-rowe-1878",
+      "firstName": "Edward",
+      "middleName": "Frost",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1878-04-28",
+      "birthPlace": null,
+      "deathDate": "1958-02-09",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Michigan (likely Detroit area)",
+          "period": "?-1958"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Father of Irene & George. George H. Rowe obituary explicitly identifies parents as 'Edward F. Rowe and Minnie (Smith) Rowe'.",
+      "sources": [
+        "Family photos",
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-edward-rowe-minnie-smith"
+      ]
+    },
+    "irene-rowe-1904": {
+      "id": "irene-rowe-1904",
+      "firstName": "Irene",
+      "middleName": "Emma Harriet",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1904-04-17",
+      "birthPlace": "Detroit, Wayne County, Michigan",
+      "deathDate": "1988-07-29",
+      "deathPlace": "Traverse City, Grand Traverse County, Michigan",
+      "burialPlace": "Bristol Cemetery, Flint Township, Genesee County, Michigan",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Detroit, Michigan",
+          "period": "1904-?"
+        },
+        {
+          "place": "Flint, Michigan",
+          "period": "?-?"
+        },
+        {
+          "place": "Traverse City, Michigan",
+          "period": "?-1988"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "m.1 Clyde Sylvester Jones (6/12/1926). m.2 _____ Rablee (after Jones's death). Find a Grave #68319659 (listed as 'Irene Emma Rablee'). Buried Bristol Cemetery, Section D, Lot 06, Grave 05.",
+      "sources": [
+        "Find a Grave #68319659"
+      ],
+      "parentFamilyId": "family-edward-rowe-minnie-smith",
+      "spouseFamilyIds": [
+        "family-irene-rowe-clyde-jones",
+        "family-irene-rowe-rablee"
+      ]
+    },
+    "clyde-jones-1891": {
+      "id": "clyde-jones-1891",
+      "firstName": "Clyde",
+      "middleName": "Sylvester",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1891-06-19",
+      "birthPlace": "Saginaw, Saginaw County, Michigan",
+      "deathDate": "1932-08-03",
+      "deathPlace": "Flint, Genesee County, Michigan",
+      "burialPlace": "Gracelawn Cemetery, Flint, Genesee County, Michigan",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Saginaw, Michigan",
+          "period": "1891-?"
+        },
+        {
+          "place": "Flint, Michigan",
+          "period": "?-1932"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Death year CORRECTED from 1930 to 1932. First wife: Georgie May Schoff (1892-1953); son from first marriage: Rollin Elwood Jones (1917-1917, infant). m.2 Irene Rowe (6/12/1926). Find a Grave #94327812.",
+      "sources": [
+        "Find a Grave #94327812"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-clyde-jones-georgie-schoff",
+        "family-irene-rowe-clyde-jones"
+      ]
+    },
+    "clyde-edward-jones-1930": {
+      "id": "clyde-edward-jones-1930",
+      "firstName": "Clyde",
+      "middleName": "Edward",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1930-01-24",
+      "birthPlace": null,
+      "deathDate": "2016",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "MEDIUM",
+      "notes": "Son of Clyde Sylvester Jones & Irene Rowe. m. 4/13/1952 Margaret Marie Crissey.",
+      "sources": [
+        "Find a Grave (family links)"
+      ],
+      "parentFamilyId": "family-irene-rowe-clyde-jones",
+      "spouseFamilyIds": [
+        "family-clyde-edward-jones-margaret-crissey"
+      ]
+    },
+    "margaret-crissey-1930": {
+      "id": "margaret-crissey-1930",
+      "firstName": "Margaret",
+      "middleName": "Marie",
+      "lastName": "Crissey",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1930-10-07",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "m. 4/13/1952 Clyde Edward Jones.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-clyde-edward-jones-margaret-crissey"
+      ]
+    },
+    "richard-jones-1954": {
+      "id": "richard-jones-1954",
+      "firstName": "Richard",
+      "middleName": "Allen",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1954-06-02",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Son of Clyde Edward Jones & Margaret Marie Crissey.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-clyde-edward-jones-margaret-crissey",
+      "spouseFamilyIds": []
+    },
+    "marie-jones-1955": {
+      "id": "marie-jones-1955",
+      "firstName": "Marie",
+      "middleName": "Louise",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1955-05-30",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Daughter of Clyde Edward Jones & Margaret Marie Crissey.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-clyde-edward-jones-margaret-crissey",
+      "spouseFamilyIds": []
+    },
+    "marilyn-jones-1959": {
+      "id": "marilyn-jones-1959",
+      "firstName": "Marilyn",
+      "middleName": "Sue",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1959-04-02",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Daughter of Clyde Edward Jones & Margaret Marie Crissey.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-clyde-edward-jones-margaret-crissey",
+      "spouseFamilyIds": []
+    },
+    "sharon-jones": {
+      "id": "sharon-jones",
+      "firstName": "Sharon",
+      "middleName": null,
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Name and birth date partially cut off in family photo. Possibly 'Shar[on?]'. Daughter of Clyde Edward Jones & Margaret Marie Crissey.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-clyde-edward-jones-margaret-crissey",
+      "spouseFamilyIds": []
+    },
+    "john-livingstone": {
+      "id": "john-livingstone",
+      "firstName": "John",
+      "middleName": "E.",
+      "lastName": "Livingstone",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1891-07-04",
+      "birthPlace": null,
+      "deathDate": "1965-12-08",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "m. Laura Flossie Smith.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-laura-smith-john-livingstone"
+      ]
+    },
+    "mae-livingstone-1915": {
+      "id": "mae-livingstone-1915",
+      "firstName": "Mae",
+      "middleName": null,
+      "lastName": "Livingstone",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1915-05-21",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Daughter of Laura Flossie Smith & John E. Livingstone. m. Roger Hardenbergh.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-laura-smith-john-livingstone",
+      "spouseFamilyIds": [
+        "family-mae-livingstone-roger-hardenbergh"
+      ]
+    },
+    "roger-hardenbergh-1915": {
+      "id": "roger-hardenbergh-1915",
+      "firstName": "Roger",
+      "middleName": null,
+      "lastName": "Hardenbergh",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1915-05-15",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "m. Mae Livingstone.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-mae-livingstone-roger-hardenbergh"
+      ]
+    },
+    "gretchen-hardenbergh-1943": {
+      "id": "gretchen-hardenbergh-1943",
+      "firstName": "Gretchen",
+      "middleName": null,
+      "lastName": "Hardenbergh",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1943-05-25",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Daughter of Mae Livingstone & Roger Hardenbergh.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-mae-livingstone-roger-hardenbergh",
+      "spouseFamilyIds": []
+    },
+    "jon-hardenbergh-1950": {
+      "id": "jon-hardenbergh-1950",
+      "firstName": "Jon",
+      "middleName": "Roger",
+      "lastName": "Hardenbergh",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1950-06-09",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Son of Mae Livingstone & Roger Hardenbergh.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-mae-livingstone-roger-hardenbergh",
+      "spouseFamilyIds": []
+    },
+    "george-h-rowe-1919": {
+      "id": "george-h-rowe-1919",
+      "firstName": "George",
+      "middleName": "H.",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1919-03-16",
+      "birthPlace": "Detroit, Michigan",
+      "deathDate": "2007-03-06",
+      "deathPlace": "Albuquerque, New Mexico",
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": [
+        "SSgt, U.S. Army"
+      ],
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Detroit, Michigan",
+          "period": "1919-?"
+        },
+        {
+          "place": "Kalamazoo, Michigan",
+          "period": "?-?"
+        },
+        {
+          "place": "Albuquerque, New Mexico",
+          "period": "?-2007"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "NEW — Son of Edward Frost Rowe & Minnie May Smith. Not shown in original family photo charts. m. 4/14/1941 Evaleen Bardwell. George H. Rowe obituary (2007, Kalamazoo Gazette) explicitly identifies parents.",
+      "sources": [
+        "George H. Rowe obituary (2007, Kalamazoo Gazette)",
+        "George H. Rowe obituary (2007, Flint Journal)"
+      ],
+      "parentFamilyId": "family-edward-rowe-minnie-smith",
+      "spouseFamilyIds": [
+        "family-george-rowe-evaleen-bardwell"
+      ]
+    },
+    "evaleen-bardwell-1918": {
+      "id": "evaleen-bardwell-1918",
+      "firstName": "Evaleen",
+      "middleName": null,
+      "lastName": "Bardwell",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1918-10-11",
+      "birthPlace": "Flint, Michigan",
+      "deathDate": "2009-08-01",
+      "deathPlace": "Albuquerque, New Mexico",
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Flint, Michigan",
+          "period": "1918-?"
+        },
+        {
+          "place": "Kalamazoo, Michigan",
+          "period": "?-?"
+        },
+        {
+          "place": "Albuquerque, New Mexico",
+          "period": "?-2009"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "NEW — Twin daughter of Charles & Ruth (Robinette) Bardwell. Nicknamed 'Eva'. m. George H. Rowe (4/14/1941). Wife of the late George H. Rowe, SSgt US Army.",
+      "sources": [
+        "Evaleen Rowe obituary (2009, Kalamazoo Gazette)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-george-rowe-evaleen-bardwell"
+      ],
+      "nickname": "Eva"
+    },
+    "dale-rowe": {
+      "id": "dale-rowe",
+      "firstName": "Dale",
+      "middleName": "E.",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Kalamazoo, Michigan",
+          "period": "as of 2007"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Son of George H. Rowe & Evaleen Bardwell. m. Ellen.",
+      "sources": [
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": "family-george-rowe-evaleen-bardwell",
+      "spouseFamilyIds": [
+        "family-dale-rowe-ellen"
+      ],
+      "prefix": "Dr."
+    },
+    "georgene-rowe-wright": {
+      "id": "georgene-rowe-wright",
+      "firstName": "Georgene",
+      "middleName": "M.",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Albuquerque, New Mexico",
+          "period": "as of 2007"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Daughter of George H. Rowe & Evaleen Bardwell. m. Alan Wright.",
+      "sources": [
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": "family-george-rowe-evaleen-bardwell",
+      "spouseFamilyIds": [
+        "family-georgene-rowe-alan-wright"
+      ]
+    },
+    "edward-f-rowe-jr": {
+      "id": "edward-f-rowe-jr",
+      "firstName": "Edward",
+      "middleName": "F.",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Prairieville, Louisiana",
+          "period": "as of 2007"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Son of George H. Rowe & Evaleen Bardwell. Named after grandfather Edward Frost Rowe. m. Stephanie.",
+      "sources": [
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": "family-george-rowe-evaleen-bardwell",
+      "spouseFamilyIds": [
+        "family-edward-f-rowe-jr-stephanie"
+      ]
+    },
+    "norine-eva-rowe": {
+      "id": "norine-eva-rowe",
+      "firstName": "Norine",
+      "middleName": "Eva",
+      "lastName": "Rowe",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1953",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": [
+        {
+          "place": "Portage, Michigan",
+          "period": "as of 2003"
+        }
+      ],
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Granddaughter of Edward Frost Rowe through his son George H. Rowe. m. James Eugene Montgomery. Birth year estimated ~1953.",
+      "sources": [
+        "George H. Rowe obituary (2007)",
+        "Evaleen Rowe obituary (2009)"
+      ],
+      "parentFamilyId": "family-george-rowe-evaleen-bardwell",
+      "spouseFamilyIds": [
+        "family-james-montgomery-norine-rowe"
+      ]
+    },
+    "j-glass": {
+      "id": "j-glass",
+      "firstName": "J.",
+      "middleName": null,
+      "lastName": "Glass",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Betsy Thompson. Known only by initial.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-betsy-thompson-j-glass"
+      ]
+    },
+    "j-hill": {
+      "id": "j-hill",
+      "firstName": "J.",
+      "middleName": null,
+      "lastName": "Hill",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "First spouse of Emeline Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-emeline-thompson-j-hill"
+      ]
+    },
+    "l-mcguinness": {
+      "id": "l-mcguinness",
+      "firstName": "L.",
+      "middleName": null,
+      "lastName": "McGuinness",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Second spouse of Emeline Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-emeline-thompson-l-mcguinness"
+      ]
+    },
+    "b-bennett": {
+      "id": "b-bennett",
+      "firstName": "B.",
+      "middleName": null,
+      "lastName": "Bennett",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Lucinda Thompson (1817).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-lucinda-thompson-1817-b-bennett"
+      ]
+    },
+    "h-shedd": {
+      "id": "h-shedd",
+      "firstName": "H.",
+      "middleName": null,
+      "lastName": "Shedd",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Harriette Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-harriette-thompson-h-shedd"
+      ]
+    },
+    "jos-bruner": {
+      "id": "jos-bruner",
+      "firstName": "Josephine",
+      "middleName": null,
+      "lastName": "Bruner",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Charles E. Thompson. 'Jos.' likely Josephine.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-charles-e-thompson-jos-bruner"
+      ]
+    },
+    "s-chamberlain": {
+      "id": "s-chamberlain",
+      "firstName": "S.",
+      "middleName": null,
+      "lastName": "Chamberlain",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Albert Hoskins Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-albert-thompson-s-chamberlain"
+      ]
+    },
+    "melvin-nichols": {
+      "id": "melvin-nichols",
+      "firstName": "Melvin",
+      "middleName": null,
+      "lastName": "Nichols",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Elizabeth Rocelia Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-elizabeth-thompson-melvin-nichols"
+      ]
+    },
+    "harvey-hawkins": {
+      "id": "harvey-hawkins",
+      "firstName": "Harvey",
+      "middleName": null,
+      "lastName": "Hawkins",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Nettie Serene Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-nettie-thompson-harvey-hawkins"
+      ]
+    },
+    "minnie-elizabeth-ardis": {
+      "id": "minnie-elizabeth-ardis",
+      "firstName": "Minnie",
+      "middleName": "Elizabeth",
+      "lastName": "Ardis",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1873",
+      "birthPlace": null,
+      "deathDate": "1946",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "HIGH",
+      "notes": "Spouse of James Herbert Thompson.",
+      "sources": [
+        "Find a Grave #51824428"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-james-h-thompson-minnie-ardis"
+      ]
+    },
+    "elanor-thompson": {
+      "id": "elanor-thompson",
+      "firstName": "Elanor",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Fred Holmes Thompson. Surname unknown.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-fred-h-thompson-elanor"
+      ]
+    },
+    "william-landis": {
+      "id": "william-landis",
+      "firstName": "William",
+      "middleName": null,
+      "lastName": "Landis",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Dorothy Elizabeth Thompson. Cottage 'Mont-Land' at Lake of Bays.",
+      "sources": [
+        "Family tradition"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-dorothy-thompson-william-landis"
+      ]
+    },
+    "zacheus-curtis": {
+      "id": "zacheus-curtis",
+      "firstName": "Zacheus",
+      "middleName": null,
+      "lastName": "Curtis",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Possible spouse of Lucinda Thompson (1771).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-lucinda-thompson-zacheus-curtis"
+      ]
+    },
+    "john-merrill": {
+      "id": "john-merrill",
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Merrill",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Possible spouse of Joanna Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-joanna-thompson-john-merrill"
+      ]
+    },
+    "smith-murphy": {
+      "id": "smith-murphy",
+      "firstName": "Smith",
+      "middleName": null,
+      "lastName": "Murphy",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Possible spouse of Sally Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-sally-thompson-smith-murphy"
+      ]
+    },
+    "e-chamberlain-1": {
+      "id": "e-chamberlain-1",
+      "firstName": "E.",
+      "middleName": null,
+      "lastName": "Chamberlain",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Jane Thompson (1830).",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-jane-thompson-e-chamberlain"
+      ]
+    },
+    "e-chamberlain-2": {
+      "id": "e-chamberlain-2",
+      "firstName": "E.",
+      "middleName": null,
+      "lastName": "Chamberlain",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "thompson",
+      "confidence": "LOW",
+      "notes": "Spouse of Sally Maria Thompson (1834). May or may not be same person as E. Chamberlain who married Jane Thompson.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-sally-maria-thompson-e-chamberlain"
+      ]
+    },
+    "mr-kitchen": {
+      "id": "mr-kitchen",
+      "firstName": "Mr.",
+      "middleName": null,
+      "lastName": "Kitchen",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "First husband of Isabella Smyth (~1863, died ~1870). First name unknown.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-isabella-smyth-mr-kitchen"
+      ]
+    },
+    "julia-obrien": {
+      "id": "julia-obrien",
+      "firstName": "Julia",
+      "middleName": null,
+      "lastName": "O'Brien",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "HIGH",
+      "notes": "m. 1862 Henry Smyth.",
+      "sources": [
+        "Wikipedia (Henry Smyth article)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-henry-smyth-julia-obrien"
+      ]
+    },
+    "wm-rolls": {
+      "id": "wm-rolls",
+      "firstName": "William",
+      "middleName": null,
+      "lastName": "Rolls",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1867 Eliza Smyth.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-eliza-smyth-wm-rolls"
+      ]
+    },
+    "chas-rolls": {
+      "id": "chas-rolls",
+      "firstName": "Charles",
+      "middleName": null,
+      "lastName": "Rolls",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1866 Katherine Smyth.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-katherine-smyth-chas-rolls"
+      ]
+    },
+    "george-atkinson": {
+      "id": "george-atkinson",
+      "firstName": "George",
+      "middleName": null,
+      "lastName": "Atkinson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smyth-gies",
+      "confidence": "LOW",
+      "notes": "m. 1873 Louisa Smyth.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-louisa-smyth-george-atkinson"
+      ]
+    },
+    "elizabeth-armstrong": {
+      "id": "elizabeth-armstrong",
+      "firstName": "Elizabeth",
+      "middleName": null,
+      "lastName": "Armstrong",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1879",
+      "birthPlace": null,
+      "deathDate": "1916",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Wife of Henry Smyth Holmes. NOT the 'Winifred' from original tree.",
+      "sources": [
+        "FamilySearch (via Reginald Theodore Holmes profile L8BV-6CF)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-henry-s-holmes-elizabeth-armstrong"
+      ]
+    },
+    "h-king": {
+      "id": "h-king",
+      "firstName": "H.",
+      "middleName": null,
+      "lastName": "King",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Spouse of Lizzie Holmes. Father of Meda 'Gyps' King.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-lizzie-holmes-h-king"
+      ]
+    },
+    "john-hallam": {
+      "id": "john-hallam",
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Hallam",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Spouse of Louisa Ives Holmes.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-louisa-holmes-john-hallam"
+      ]
+    },
+    "richard-stidson": {
+      "id": "richard-stidson",
+      "firstName": "Richard",
+      "middleName": null,
+      "lastName": "Stidson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Spouse of Sarah Melinda Holmes.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-sarah-holmes-richard-stidson"
+      ]
+    },
+    "james-mccrory": {
+      "id": "james-mccrory",
+      "firstName": "James",
+      "middleName": null,
+      "lastName": "McCrory",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Rev. James McCrory of Illinois. Spouse of Julia Ann Holmes.",
+      "sources": [
+        "Find a Grave #85191386"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-julia-holmes-james-mccrory"
+      ],
+      "prefix": "Rev."
+    },
+    "mary-jane-jones": {
+      "id": "mary-jane-jones",
+      "firstName": "Mary",
+      "middleName": "Jane",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "m. 1871 Thomas Holmes Jr. in Chatham, Ontario.",
+      "sources": [
+        "FamilySearch LYQ2-8L6"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-thomas-holmes-jr-mary-jane-jones"
+      ]
+    },
+    "henry-s-holmes-jr": {
+      "id": "henry-s-holmes-jr",
+      "firstName": "Henry",
+      "middleName": "Smyth",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1902",
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Son of Henry Smyth Holmes & Elizabeth Armstrong. Henry Smyth Holmes Jr.",
+      "sources": [
+        "FamilySearch"
+      ],
+      "parentFamilyId": "family-henry-s-holmes-elizabeth-armstrong",
+      "spouseFamilyIds": [],
+      "suffix": "Jr."
+    },
+    "winnifred-martin-holmes": {
+      "id": "winnifred-martin-holmes",
+      "firstName": "Winnifred",
+      "middleName": "Martin",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1904",
+      "birthPlace": null,
+      "deathDate": "1997",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Daughter of Henry Smyth Holmes & Elizabeth Armstrong. Originally misidentified as Henry's spouse in family tree photos.",
+      "sources": [
+        "FamilySearch"
+      ],
+      "parentFamilyId": "family-henry-s-holmes-elizabeth-armstrong",
+      "spouseFamilyIds": []
+    },
+    "frederick-george-holmes": {
+      "id": "frederick-george-holmes",
+      "firstName": "Frederick",
+      "middleName": "George",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1905",
+      "birthPlace": null,
+      "deathDate": "1905",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Son of Henry Smyth Holmes & Elizabeth Armstrong. Died in infancy.",
+      "sources": [
+        "FamilySearch"
+      ],
+      "parentFamilyId": "family-henry-s-holmes-elizabeth-armstrong",
+      "spouseFamilyIds": []
+    },
+    "reginald-theodore-holmes": {
+      "id": "reginald-theodore-holmes",
+      "firstName": "Reginald",
+      "middleName": "Theodore",
+      "lastName": "Holmes",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1906",
+      "birthPlace": null,
+      "deathDate": "1963",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "MEDIUM",
+      "notes": "Son of Henry Smyth Holmes & Elizabeth Armstrong. FamilySearch profile L8BV-6CF.",
+      "sources": [
+        "FamilySearch L8BV-6CF"
+      ],
+      "parentFamilyId": "family-henry-s-holmes-elizabeth-armstrong",
+      "spouseFamilyIds": []
+    },
+    "isabel-hallam": {
+      "id": "isabel-hallam",
+      "firstName": "Isabel",
+      "middleName": null,
+      "lastName": "Hallam",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Daughter of Louisa Ives Holmes & John Hallam. m. Richard Carr.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-louisa-holmes-john-hallam",
+      "spouseFamilyIds": []
+    },
+    "john-hallam-jr": {
+      "id": "john-hallam-jr",
+      "firstName": "John",
+      "middleName": null,
+      "lastName": "Hallam",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Son of Louisa Ives Holmes & John Hallam.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-louisa-holmes-john-hallam",
+      "spouseFamilyIds": [],
+      "suffix": "Jr."
+    },
+    "robert-hallam": {
+      "id": "robert-hallam",
+      "firstName": "Robert",
+      "middleName": null,
+      "lastName": "Hallam",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "holmes",
+      "confidence": "LOW",
+      "notes": "Son of Louisa Ives Holmes & John Hallam.",
+      "sources": [
+        "Family photos"
+      ],
+      "parentFamilyId": "family-louisa-holmes-john-hallam",
+      "spouseFamilyIds": []
+    },
+    "n-pedlar": {
+      "id": "n-pedlar",
+      "firstName": "N.",
+      "middleName": null,
+      "lastName": "Pedlar",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Spouse of Harry Northwood. First name unknown.",
+      "sources": [
+        "Family notes"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-harry-northwood-n-pedlar"
+      ]
+    },
+    "monica-hinde": {
+      "id": "monica-hinde",
+      "firstName": "Monica",
+      "middleName": null,
+      "lastName": "Hinde",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1877",
+      "birthPlace": "England",
+      "deathDate": "1965-09-15",
+      "deathPlace": "Chatham, Ontario, Canada",
+      "burialPlace": "Maple Leaf Cemetery, Chatham, Ontario",
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "HIGH",
+      "notes": "Spouse of Dr. Alfred Northwood. Name corrected from 'Hindes' to 'Hinde'. Two sisters: Beatrice and Gertrude. Died at Public General Hospital, Chatham.",
+      "sources": [
+        "CK Physician Tribute",
+        "Find a Grave"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-alfred-northwood-monica-hinde"
+      ]
+    },
+    "doug-stevens": {
+      "id": "doug-stevens",
+      "firstName": "Doug",
+      "middleName": null,
+      "lastName": "Stevens",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Spouse of Harriett 'Hattie' Northwood.",
+      "sources": [
+        "Family notes"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-hattie-northwood-doug-stevens"
+      ]
+    },
+    "helen-northwood": {
+      "id": "helen-northwood",
+      "firstName": "Helen",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Daughter of Harry Northwood & N. Pedlar. m. Chisholm.",
+      "sources": [
+        "Family notes"
+      ],
+      "parentFamilyId": "family-harry-northwood-n-pedlar",
+      "spouseFamilyIds": []
+    },
+    "kathleen-northwood": {
+      "id": "kathleen-northwood",
+      "firstName": "Kathleen",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Daughter of Harry Northwood & N. Pedlar. m. Edmonson Moore.",
+      "sources": [
+        "Family notes"
+      ],
+      "parentFamilyId": "family-harry-northwood-n-pedlar",
+      "spouseFamilyIds": []
+    },
+    "grace-northwood": {
+      "id": "grace-northwood",
+      "firstName": "Grace",
+      "middleName": null,
+      "lastName": "Northwood",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "northwood",
+      "confidence": "LOW",
+      "notes": "Daughter of Harry Northwood & N. Pedlar. m. Dobson.",
+      "sources": [
+        "Family notes"
+      ],
+      "parentFamilyId": "family-harry-northwood-n-pedlar",
+      "spouseFamilyIds": []
+    },
+    "robert-dawson": {
+      "id": "robert-dawson",
+      "firstName": "Robert",
+      "middleName": null,
+      "lastName": "Dawson",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Spouse of Lea Ann Montgomery.",
+      "sources": [
+        "Obituaries"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-lea-ann-montgomery-robert-dawson"
+      ]
+    },
+    "paul-predecki": {
+      "id": "paul-predecki",
+      "firstName": "Paul",
+      "middleName": "K.",
+      "lastName": "Predecki",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": [
+        "Adjunct Emeritus Professor, University of Denver"
+      ],
+      "education": [
+        "MIT (Ph.D. Metallurgy, 1964)"
+      ],
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "montgomery",
+      "confidence": "HIGH",
+      "notes": "Ph.D. in Metallurgy from MIT (1964). Specialties: advanced composite materials, aluminum alloys, corrosion science. Recipient of Charles S. Barrett Award.",
+      "sources": [
+        "IEEE",
+        "University of Denver",
+        "Obituaries"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-dorothy-montgomery-paul-predecki"
+      ]
+    },
+    "georgie-may-schoff": {
+      "id": "georgie-may-schoff",
+      "firstName": "Georgie",
+      "middleName": "May",
+      "lastName": "Schoff",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": "1892",
+      "birthPlace": null,
+      "deathDate": "1953",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "MEDIUM",
+      "notes": "First wife of Clyde Sylvester Jones. Later remarried Louis Arthur Lips (1885-1963).",
+      "sources": [
+        "Find a Grave #43679133"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-clyde-jones-georgie-schoff"
+      ]
+    },
+    "rollin-elwood-jones": {
+      "id": "rollin-elwood-jones",
+      "firstName": "Rollin",
+      "middleName": "Elwood",
+      "lastName": "Jones",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": "1917",
+      "birthPlace": null,
+      "deathDate": "1917",
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "MEDIUM",
+      "notes": "Son of Clyde Sylvester Jones & Georgie May Schoff. Died in infancy.",
+      "sources": [
+        "Find a Grave (family links)"
+      ],
+      "parentFamilyId": "family-clyde-jones-georgie-schoff",
+      "spouseFamilyIds": []
+    },
+    "mr-rablee": {
+      "id": "mr-rablee",
+      "firstName": "Unknown",
+      "middleName": null,
+      "lastName": "Rablee",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "LOW",
+      "notes": "Second husband of Irene Rowe. First name unknown. Connected to 'George Nathan Rab[lee?]' notation on Photo 6.",
+      "sources": [
+        "Find a Grave #68319659"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-irene-rowe-rablee"
+      ]
+    },
+    "ellen-rowe": {
+      "id": "ellen-rowe",
+      "firstName": "Ellen",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Spouse of Dr. Dale E. Rowe. Surname unknown.",
+      "sources": [
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-dale-rowe-ellen"
+      ]
+    },
+    "alan-wright": {
+      "id": "alan-wright",
+      "firstName": "Alan",
+      "middleName": null,
+      "lastName": "Wright",
+      "maidenName": null,
+      "gender": "male",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Spouse of Georgene M. Rowe. Of Albuquerque, NM.",
+      "sources": [
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-georgene-rowe-alan-wright"
+      ]
+    },
+    "stephanie-rowe": {
+      "id": "stephanie-rowe",
+      "firstName": "Stephanie",
+      "middleName": null,
+      "lastName": "Unknown",
+      "maidenName": null,
+      "gender": "female",
+      "birthDate": null,
+      "birthPlace": null,
+      "deathDate": null,
+      "deathPlace": null,
+      "burialPlace": null,
+      "occupation": null,
+      "education": null,
+      "militaryService": null,
+      "religion": null,
+      "immigration": null,
+      "residences": null,
+      "familyLine": "smith-rowe-jones",
+      "confidence": "HIGH",
+      "notes": "Spouse of Edward F. Rowe (younger). Surname unknown.",
+      "sources": [
+        "George H. Rowe obituary (2007)"
+      ],
+      "parentFamilyId": null,
+      "spouseFamilyIds": [
+        "family-edward-f-rowe-jr-stephanie"
+      ]
+    }
+  }
+}

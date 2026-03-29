@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "title": "Montgomery Family Tree",
+    "generated": "2025-07-15",
+    "totalPeople": 174,
+    "familyLines": [
+      "thompson",
+      "holmes",
+      "smyth-gies",
+      "northwood",
+      "montgomery",
+      "smith-rowe-jones"
+    ]
+  },
+  "families": [
+    {
+      "id": "family-thompson-patriarch",
+      "husband": "thompson-patriarch",
+      "wife": null,
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "samuel-thompson-1767",
+        "daniel-thompson-1769",
+        "calvin-thompson-1771",
+        "lucinda-thompson-1771",
+        "joanna-thompson-1777",
+        "luther-thompson-1779",
+        "sally-thompson-1782",
+        "charles-thompson-1783",
+        "jonathan-thompson-1785",
+        "leonard-thompson-1788"
+      ]
+    },
+    {
+      "id": "family-charles-thompson-millicent-betts",
+      "husband": "charles-thompson-1783",
+      "wife": "millicent-ann-betts",
+      "marriageDate": null,
+      "marriagePlace": "Herkimer, New York",
+      "children": [
+        "betsy-thompson-1810",
+        "emeline-thompson-1813",
+        "lucinda-thompson-1817",
+        "belinda-thompson-1820",
+        "calvin-thompson-1822",
+        "harriette-thompson-1824",
+        "charles-f-thompson-1827",
+        "jane-thompson-1830",
+        "sally-maria-thompson-1834"
+      ]
+    },
+    {
+      "id": "family-calvin-thompson-serene-chamberlain",
+      "husband": "calvin-thompson-1822",
+      "wife": "serene-chamberlain-1823",
+      "marriageDate": "1849",
+      "marriagePlace": "New Hampshire (believed)",
+      "children": [
+        "charles-e-thompson-1850",
+        "albert-h-thompson-1852",
+        "elizabeth-r-thompson-1855"
+      ]
+    },
+    {
+      "id": "family-calvin-thompson-charlotte-brown",
+      "husband": "calvin-thompson-1822",
+      "wife": "charlotte-brown-1840",
+      "marriageDate": "1863",
+      "marriagePlace": null,
+      "children": [
+        "nettie-thompson-1864",
+        "james-h-thompson-1866",
+        "fred-e-thompson-1871"
+      ]
+    },
+    {
+      "id": "family-nettie-thompson-harvey-hawkins",
+      "husband": "harvey-hawkins",
+      "wife": "nettie-thompson-1864",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "rollin-hawkins-1890",
+        "harry-hawkins-1894"
+      ]
+    },
+    {
+      "id": "family-james-h-thompson-minnie-ardis",
+      "husband": "james-h-thompson-1866",
+      "wife": "minnie-elizabeth-ardis",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "maxwell-thompson-1905",
+        "charlotte-ann-thompson-1909"
+      ]
+    },
+    {
+      "id": "family-fred-thompson-isabella-holmes",
+      "husband": "fred-e-thompson-1871",
+      "wife": "isabella-edna-holmes-1879",
+      "marriageDate": "1903-10-27",
+      "marriagePlace": "Michigan",
+      "children": [
+        "fred-holmes-thompson",
+        "charlotte-isabel-thompson",
+        "dorothy-elizabeth-thompson",
+        "millicent-betts-thompson"
+      ]
+    },
+    {
+      "id": "family-fred-h-thompson-elanor",
+      "husband": "fred-holmes-thompson",
+      "wife": "elanor-thompson",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "fritz-thompson",
+        "jimbo-thompson"
+      ]
+    },
+    {
+      "id": "family-dorothy-thompson-william-landis",
+      "husband": "william-landis",
+      "wife": "dorothy-elizabeth-thompson",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "william-landis-jr",
+        "stephen-landis",
+        "millicent-landis"
+      ]
+    },
+    {
+      "id": "family-henry-gies-mary-kuhn",
+      "husband": "henry-gies-hessen",
+      "wife": "mary-catherine-kuhn",
+      "marriageDate": null,
+      "marriagePlace": "Detroit, Michigan",
+      "children": [
+        "mary-elizabeth-gies",
+        "christina-gies",
+        "catherine-gies",
+        "henry-gies-jr",
+        "elizabeth-gies"
+      ]
+    },
+    {
+      "id": "family-william-smyth-mary-gies",
+      "husband": "william-smyth",
+      "wife": "mary-elizabeth-gies",
+      "marriageDate": "1835",
+      "marriagePlace": "Detroit or Chatham",
+      "children": [
+        "isabella-smyth-1838",
+        "henry-smyth-1841",
+        "mary-smyth-1843",
+        "eliza-smyth-1845",
+        "katherine-smyth-1848",
+        "louisa-smyth-1850"
+      ]
+    },
+    {
+      "id": "family-samuel-holmes-mary-ives",
+      "husband": "samuel-holmes",
+      "wife": "mary-ives",
+      "marriageDate": null,
+      "marriagePlace": "Salford, Lancashire, England",
+      "children": [
+        "david-holmes-sr",
+        "sarah-holmes-sr",
+        "mary-holmes-sr",
+        "elizabeth-holmes-sr",
+        "rebecca-holmes-sr",
+        "john-holmes-sr",
+        "richard-holmes-sr",
+        "thomas-holmes-1817"
+      ]
+    },
+    {
+      "id": "family-thomas-holmes-jane-hampson",
+      "husband": "thomas-holmes-1817",
+      "wife": "jane-hampson",
+      "marriageDate": "1839",
+      "marriagePlace": null,
+      "children": [
+        "richard-w-holmes",
+        "david-holmes-jr",
+        "rebecca-holmes-child",
+        "john-holmes-child",
+        "samantha-holmes",
+        "mary-holmes-jr",
+        "thomas-holmes-jr",
+        "julia-ann-holmes",
+        "lizzie-holmes",
+        "sarah-melinda-holmes"
+      ]
+    },
+    {
+      "id": "family-thomas-holmes-isabella-smyth",
+      "husband": "thomas-holmes-1817",
+      "wife": "isabella-smyth-1838",
+      "marriageDate": "1873",
+      "marriagePlace": "Chatham, Ontario, Canada",
+      "children": [
+        "henry-smyth-holmes",
+        "frederic-t-holmes",
+        "isabella-edna-holmes-1879",
+        "louisa-ives-holmes"
+      ]
+    },
+    {
+      "id": "family-isabella-smyth-mr-kitchen",
+      "husband": "mr-kitchen",
+      "wife": "isabella-smyth-1838",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-henry-s-holmes-elizabeth-armstrong",
+      "husband": "henry-smyth-holmes",
+      "wife": "elizabeth-armstrong",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "henry-s-holmes-jr",
+        "winnifred-martin-holmes",
+        "frederick-george-holmes",
+        "reginald-theodore-holmes"
+      ]
+    },
+    {
+      "id": "family-lizzie-holmes-h-king",
+      "husband": "h-king",
+      "wife": "lizzie-holmes",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "meda-gyps-king"
+      ]
+    },
+    {
+      "id": "family-louisa-holmes-john-hallam",
+      "husband": "john-hallam",
+      "wife": "louisa-ives-holmes",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "isabel-hallam",
+        "john-hallam-jr",
+        "robert-hallam"
+      ]
+    },
+    {
+      "id": "family-sarah-holmes-richard-stidson",
+      "husband": "richard-stidson",
+      "wife": "sarah-melinda-holmes",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-julia-holmes-james-mccrory",
+      "husband": "james-mccrory",
+      "wife": "julia-ann-holmes",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-thomas-holmes-jr-mary-jane-jones",
+      "husband": "thomas-holmes-jr",
+      "wife": "mary-jane-jones",
+      "marriageDate": "1871",
+      "marriagePlace": "Chatham, Ontario, Canada",
+      "children": []
+    },
+    {
+      "id": "family-henry-smyth-julia-obrien",
+      "husband": "henry-smyth-1841",
+      "wife": "julia-obrien",
+      "marriageDate": "1862",
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-john-northwood-mary-smyth",
+      "husband": "john-northwood",
+      "wife": "mary-smyth-1843",
+      "marriageDate": "1862",
+      "marriagePlace": "Chatham, Ontario, Canada",
+      "children": [
+        "harry-northwood",
+        "edgar-burton-northwood",
+        "alfred-northwood",
+        "bertha-northwood",
+        "hattie-northwood",
+        "mame-northwood",
+        "sidney-northwood",
+        "dorothy-northwood"
+      ]
+    },
+    {
+      "id": "family-harry-northwood-n-pedlar",
+      "husband": "harry-northwood",
+      "wife": "n-pedlar",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "helen-northwood",
+        "kathleen-northwood",
+        "grace-northwood"
+      ]
+    },
+    {
+      "id": "family-alfred-northwood-monica-hinde",
+      "husband": "alfred-northwood",
+      "wife": "monica-hinde",
+      "marriageDate": "1901-05-22",
+      "marriagePlace": "Wagon Mound, New Mexico",
+      "children": []
+    },
+    {
+      "id": "family-hattie-northwood-doug-stevens",
+      "husband": "doug-stevens",
+      "wife": "hattie-northwood",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-sidney-northwood-meda-king",
+      "husband": "sidney-northwood",
+      "wife": "meda-gyps-king",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-donald-montgomery-millicent-thompson",
+      "husband": "donald-montgomery",
+      "wife": "millicent-betts-thompson",
+      "marriageDate": "1936-05-21",
+      "marriagePlace": "Detroit, Michigan",
+      "children": [
+        "lea-ann-montgomery",
+        "dorothy-mary-montgomery",
+        "david-michael-montgomery",
+        "james-eugene-montgomery"
+      ]
+    },
+    {
+      "id": "family-lea-ann-montgomery-robert-dawson",
+      "husband": "robert-dawson",
+      "wife": "lea-ann-montgomery",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "scott-dawson"
+      ]
+    },
+    {
+      "id": "family-dorothy-montgomery-paul-predecki",
+      "husband": "paul-predecki",
+      "wife": "dorothy-mary-montgomery",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "daniel-predecki"
+      ]
+    },
+    {
+      "id": "family-james-montgomery-norine-rowe",
+      "husband": "james-eugene-montgomery",
+      "wife": "norine-eva-rowe",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "haley-montgomery",
+        "jennifer-montgomery"
+      ]
+    },
+    {
+      "id": "family-edward-rowe-minnie-smith",
+      "husband": "edward-frost-rowe-1878",
+      "wife": "minnie-may-smith-1883",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "irene-rowe-1904",
+        "george-h-rowe-1919"
+      ]
+    },
+    {
+      "id": "family-laura-smith-john-livingstone",
+      "husband": "john-livingstone",
+      "wife": "laura-flossie-smith-1891",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "mae-livingstone-1915"
+      ]
+    },
+    {
+      "id": "family-mae-livingstone-roger-hardenbergh",
+      "husband": "roger-hardenbergh-1915",
+      "wife": "mae-livingstone-1915",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "gretchen-hardenbergh-1943",
+        "jon-hardenbergh-1950"
+      ]
+    },
+    {
+      "id": "family-irene-rowe-clyde-jones",
+      "husband": "clyde-jones-1891",
+      "wife": "irene-rowe-1904",
+      "marriageDate": "1926-06-12",
+      "marriagePlace": null,
+      "children": [
+        "clyde-edward-jones-1930"
+      ]
+    },
+    {
+      "id": "family-irene-rowe-rablee",
+      "husband": "mr-rablee",
+      "wife": "irene-rowe-1904",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-clyde-jones-georgie-schoff",
+      "husband": "clyde-jones-1891",
+      "wife": "georgie-may-schoff",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": [
+        "rollin-elwood-jones"
+      ]
+    },
+    {
+      "id": "family-clyde-edward-jones-margaret-crissey",
+      "husband": "clyde-edward-jones-1930",
+      "wife": "margaret-crissey-1930",
+      "marriageDate": "1952-04-13",
+      "marriagePlace": null,
+      "children": [
+        "richard-jones-1954",
+        "marie-jones-1955",
+        "marilyn-jones-1959",
+        "sharon-jones"
+      ]
+    },
+    {
+      "id": "family-george-rowe-evaleen-bardwell",
+      "husband": "george-h-rowe-1919",
+      "wife": "evaleen-bardwell-1918",
+      "marriageDate": "1941-04-14",
+      "marriagePlace": null,
+      "children": [
+        "dale-rowe",
+        "georgene-rowe-wright",
+        "edward-f-rowe-jr",
+        "norine-eva-rowe"
+      ]
+    },
+    {
+      "id": "family-betsy-thompson-j-glass",
+      "husband": "j-glass",
+      "wife": "betsy-thompson-1810",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-emeline-thompson-j-hill",
+      "husband": "j-hill",
+      "wife": "emeline-thompson-1813",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-emeline-thompson-l-mcguinness",
+      "husband": "l-mcguinness",
+      "wife": "emeline-thompson-1813",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-lucinda-thompson-1817-b-bennett",
+      "husband": "b-bennett",
+      "wife": "lucinda-thompson-1817",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-harriette-thompson-h-shedd",
+      "husband": "h-shedd",
+      "wife": "harriette-thompson-1824",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-charles-e-thompson-jos-bruner",
+      "husband": "charles-e-thompson-1850",
+      "wife": "jos-bruner",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-albert-thompson-s-chamberlain",
+      "husband": "albert-h-thompson-1852",
+      "wife": "s-chamberlain",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-elizabeth-thompson-melvin-nichols",
+      "husband": "melvin-nichols",
+      "wife": "elizabeth-r-thompson-1855",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-lucinda-thompson-zacheus-curtis",
+      "husband": "zacheus-curtis",
+      "wife": "lucinda-thompson-1771",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-joanna-thompson-john-merrill",
+      "husband": "john-merrill",
+      "wife": "joanna-thompson-1777",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-sally-thompson-smith-murphy",
+      "husband": "smith-murphy",
+      "wife": "sally-thompson-1782",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-jane-thompson-e-chamberlain",
+      "husband": "e-chamberlain-1",
+      "wife": "jane-thompson-1830",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-sally-maria-thompson-e-chamberlain",
+      "husband": "e-chamberlain-2",
+      "wife": "sally-maria-thompson-1834",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-eliza-smyth-wm-rolls",
+      "husband": "wm-rolls",
+      "wife": "eliza-smyth-1845",
+      "marriageDate": "1867",
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-katherine-smyth-chas-rolls",
+      "husband": "chas-rolls",
+      "wife": "katherine-smyth-1848",
+      "marriageDate": "1866",
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-louisa-smyth-george-atkinson",
+      "husband": "george-atkinson",
+      "wife": "louisa-smyth-1850",
+      "marriageDate": "1873",
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-dale-rowe-ellen",
+      "husband": "dale-rowe",
+      "wife": "ellen-rowe",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-georgene-rowe-alan-wright",
+      "husband": "alan-wright",
+      "wife": "georgene-rowe-wright",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    },
+    {
+      "id": "family-edward-f-rowe-jr-stephanie",
+      "husband": "edward-f-rowe-jr",
+      "wife": "stephanie-rowe",
+      "marriageDate": null,
+      "marriagePlace": null,
+      "children": []
+    }
+  ]
+}
