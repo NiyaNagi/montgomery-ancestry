@@ -8,6 +8,7 @@ import {
   extractYear, isLiving, getFamilyLineInfo, getParents, getSiblings,
   getSpouses, getChildren, getAge
 } from './data.js';
+import { isEditMode, buildEditControls, bindEditControls } from './editor.js';
 
 let panel = null;
 let currentPersonId = null;
@@ -40,6 +41,12 @@ export function initPersonPanel(onNavigate) {
   panel.addEventListener('click', (e) => {
     if (e.target === panel) closePanel();
   });
+
+  // Fix #10: Click backdrop to close panel
+  const backdrop = document.getElementById('panel-backdrop');
+  if (backdrop) {
+    backdrop.addEventListener('click', closePanel);
+  }
 }
 
 /** Show person details for a given person ID. */
@@ -57,10 +64,15 @@ export function showPerson(personId) {
 
   content.innerHTML = buildPersonHTML(person, living);
   bindPersonLinks(content);
+  bindEditControls(content, personId);
 
   panel.classList.add('active');
   panel.setAttribute('aria-hidden', 'false');
   document.body.classList.add('panel-open');
+
+  // Show backdrop
+  const backdrop = document.getElementById('panel-backdrop');
+  if (backdrop) backdrop.classList.add('active');
 
   // Focus management for accessibility
   const heading = content.querySelector('h2');
@@ -78,6 +90,10 @@ export function closePanel() {
   document.body.classList.remove('panel-open');
   panel.removeEventListener('keydown', trapFocus);
   currentPersonId = null;
+
+  // Hide backdrop
+  const backdrop = document.getElementById('panel-backdrop');
+  if (backdrop) backdrop.classList.remove('active');
 
   // Restore focus to the element that opened the panel
   if (previousFocusElement && previousFocusElement.focus) {
@@ -136,6 +152,8 @@ function buildPersonHTML(person, living) {
       <div class="sparse-notice">
         <p>📋 Limited records available for this individual</p>
       </div>` : ''}
+
+    ${buildEditControls(person.id)}
   `;
 }
 

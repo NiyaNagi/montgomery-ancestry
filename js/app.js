@@ -7,6 +7,7 @@ import { loadData, getPerson, getFamilyLines, getFamilyLineInfo, getAllPeople } 
 import { initTree, renderTree, selectPerson, panToNode, resetZoom } from './tree.js';
 import { initPersonPanel, showPerson, closePanel, isPanelOpen } from './person.js';
 import { initSearch, openSearch, closeSearch, isSearchOpen } from './search.js';
+import { initEditMode } from './editor.js';
 
 let currentFamilyLine = 'all';
 
@@ -38,6 +39,9 @@ function setupUI() {
 
   // Search
   initSearch(handleSearchSelect);
+
+  // Edit mode
+  initEditMode(handlePersonSelect);
 
   // Tab navigation
   buildFamilyTabs();
@@ -92,6 +96,18 @@ function buildFamilyTabs() {
     const info = getFamilyLineInfo(line);
     const btn = createTab(line, info.label, info.color);
     nav.appendChild(btn);
+  }
+
+  // Fix #1: Detect scroll position for fade affordance
+  const navEl = nav.closest('.family-nav');
+  if (navEl) {
+    const updateScrollIndicator = () => {
+      const atEnd = navEl.scrollLeft + navEl.clientWidth >= navEl.scrollWidth - 5;
+      navEl.classList.toggle('scrolled-end', atEnd);
+    };
+    navEl.addEventListener('scroll', updateScrollIndicator, { passive: true });
+    // Check on load (after tabs render)
+    requestAnimationFrame(updateScrollIndicator);
   }
 }
 

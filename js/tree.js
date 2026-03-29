@@ -10,10 +10,10 @@ import {
 } from './data.js';
 
 // Layout constants
-const NODE_WIDTH = 160;
+const NODE_WIDTH = 200;
 const NODE_HEIGHT = 56;
 const H_GAP = 28;
-const V_GAP = 72;
+const V_GAP = 44;
 const COUPLE_GAP = 8;
 const PADDING = 40;
 
@@ -139,9 +139,21 @@ export function resetZoom() {
 
   const scaleX = (rect.width - 40) / bbox.w;
   const scaleY = (rect.height - 40) / bbox.h;
-  transform.scale = Math.min(scaleX, scaleY, 1);
-  transform.x = (rect.width - bbox.w * transform.scale) / 2 - bbox.x * transform.scale;
-  transform.y = 20 - bbox.y * transform.scale;
+  const fitScale = Math.min(scaleX, scaleY, 1);
+
+  // Enforce a minimum scale so nodes remain readable
+  const MIN_SCALE = 0.5;
+  transform.scale = Math.max(fitScale, MIN_SCALE);
+
+  if (fitScale >= MIN_SCALE) {
+    // Tree fits fully — center it
+    transform.x = (rect.width - bbox.w * transform.scale) / 2 - bbox.x * transform.scale;
+    transform.y = 20 - bbox.y * transform.scale;
+  } else {
+    // Tree is too large — show top-left of content with padding
+    transform.x = 20 - bbox.x * transform.scale;
+    transform.y = 20 - bbox.y * transform.scale;
+  }
 
   applyTransform(true);
 }
@@ -501,7 +513,7 @@ function drawNode(parent, node) {
     x: 42, y: 22,
     class: 'node-name'
   });
-  name.textContent = truncate(getShortName(person), 16);
+  name.textContent = truncate(getShortName(person), 22);
   g.appendChild(name);
 
   // Dates
@@ -663,14 +675,47 @@ function applyTransform(animate = false) {
 }
 
 function centerOnFocalPoint(familyLine) {
-  // Prefer centering on Montgomery focal family, or first node
-  const montgomeryPerson = getAllPeople().find(p => p.id === 'donald-montgomery' || p.id === 'millicent-betts-thompson');
+  if (!containerEl || !layoutCache) return;
 
-  if (familyLine === 'all' && montgomeryPerson && nodePositions.has(montgomeryPerson.id)) {
-    panToNode(montgomeryPerson.id);
-  } else {
+  const rect = containerEl.getBoundingClientRect();
+  const bbox = layoutCache.bbox;
+  const nodes = layoutCache.nodes;
+
+  const scaleX = (rect.width - 40) / bbox.w;
+  const scaleY = (rect.height - 40) / bbox.h;
+  const fitScale = Math.min(scaleX, scaleY, 1);
+  const MIN_SCALE = 0.5;
+
+  if (fitScale >= MIN_SCALE) {
+    // Tree fits — use resetZoom to center it fully
     resetZoom();
+    return;
   }
+
+  // Tree is too large to fit — find the topmost node (root ancestor)
+  // and center the view on it so the root of the tree is visible
+  transform.scale = MIN_SCALE;
+
+  let topNode = null;
+  let minY = Infinity;
+  for (const node of nodes) {
+    if (node.y < minY) {
+      minY = node.y;
+      topNode = node;
+    }
+  }
+
+  if (topNode) {
+    // Center horizontally on the root node, show from top
+    const nodeCenter = topNode.x + NODE_WIDTH / 2;
+    transform.x = rect.width / 2 - nodeCenter * transform.scale;
+    transform.y = 20 - bbox.y * transform.scale;
+  } else {
+    transform.x = 20 - bbox.x * transform.scale;
+    transform.y = 20 - bbox.y * transform.scale;
+  }
+
+  applyTransform(true);
 }
 
 // === SVG Helpers ===

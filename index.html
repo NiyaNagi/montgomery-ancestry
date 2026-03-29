@@ -37,6 +37,10 @@
         </div>
       </div>
       <div class="header-actions">
+        <button id="edit-mode-toggle" class="btn-icon edit-toggle-btn" aria-label="Toggle edit mode (press E)" aria-pressed="false" title="Edit Mode (E)">
+          <span aria-hidden="true">✏️</span>
+          <span id="edit-change-count" class="edit-badge" hidden></span>
+        </button>
         <button id="search-btn" class="btn-icon" aria-label="Search people (press / )" title="Search (/)">
           <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <circle cx="8.5" cy="8.5" r="5.5"/><line x1="13" y1="13" x2="18" y2="18"/>
@@ -72,6 +76,9 @@
     </div>
   </main>
 
+  <!-- Person panel backdrop (click to close) -->
+  <div id="panel-backdrop" class="panel-backdrop" aria-hidden="true"></div>
+
   <!-- Person detail panel (slide-in) -->
   <aside id="person-panel" class="person-panel" aria-hidden="true" aria-label="Person details" role="dialog">
     <div class="panel-header-bar">
@@ -97,7 +104,7 @@
           <input
             id="search-input"
             type="search"
-            placeholder="Search names, places, occupations…"
+            placeholder="Search people…"
             autocomplete="off"
             aria-label="Search family members"
           >
@@ -114,6 +121,88 @@
       </div>
     </div>
   </div>
+
+  <!-- Edit mode banner (hidden until edit mode is on) -->
+  <div id="edit-banner" class="edit-banner" role="status" aria-live="polite">
+    <span class="edit-banner-text">✏️ <strong>EDIT MODE</strong> — Changes are tracked locally. Download when done.</span>
+    <div class="edit-banner-actions">
+      <button id="edit-download" class="edit-banner-btn" disabled>📥 Download Changes</button>
+      <button id="edit-discard" class="edit-banner-btn edit-banner-btn-danger" disabled>🗑 Discard</button>
+    </div>
+  </div>
+
+  <!-- Add Person FAB (visible in edit mode only) -->
+  <button id="add-person-fab" class="add-person-fab" aria-label="Add new person" title="Add person">
+    <span aria-hidden="true">+</span>
+  </button>
+
+  <!-- Add Person Overlay -->
+  <div id="add-person-overlay" class="modal-overlay" aria-hidden="true" role="dialog" aria-label="Add new person">
+    <div class="modal-dialog">
+      <h2>Add New Person</h2>
+      <form id="add-person-form" class="edit-form">
+        <div class="edit-form-row">
+          <label for="add-first-name">First Name *</label>
+          <input id="add-first-name" type="text" required autocomplete="off">
+        </div>
+        <div class="edit-form-row">
+          <label for="add-middle-name">Middle Name</label>
+          <input id="add-middle-name" type="text" autocomplete="off">
+        </div>
+        <div class="edit-form-row">
+          <label for="add-last-name">Last Name *</label>
+          <input id="add-last-name" type="text" required autocomplete="off">
+        </div>
+        <div class="edit-form-row">
+          <label for="add-gender">Gender</label>
+          <select id="add-gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="unknown">Unknown</option>
+          </select>
+        </div>
+        <div class="edit-form-row">
+          <label for="add-birth-date">Birth Date</label>
+          <input id="add-birth-date" type="text" placeholder="e.g. 1850 or 1850-03-15" autocomplete="off">
+        </div>
+        <div class="edit-form-row">
+          <label for="add-death-date">Death Date</label>
+          <input id="add-death-date" type="text" placeholder="e.g. 1920 or 1920-11-02" autocomplete="off">
+        </div>
+        <div class="edit-form-row">
+          <label for="add-person-family">Parent Family *</label>
+          <select id="add-person-family" required>
+            <!-- Populated by editor.js -->
+          </select>
+        </div>
+        <div class="edit-form-actions">
+          <button type="submit" class="edit-form-submit">➕ Add Person</button>
+          <button type="button" id="add-person-cancel" class="edit-form-cancel">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Move Person Dialog -->
+  <div id="move-dialog-overlay" class="modal-overlay" aria-hidden="true" role="dialog" aria-label="Move person to family">
+    <div class="modal-dialog">
+      <h2>Move Person</h2>
+      <p>Move <strong id="move-person-name"></strong> to a different family:</p>
+      <div class="edit-form-row">
+        <label for="move-target-select">Target Family</label>
+        <select id="move-target-select">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+      <div class="edit-form-actions">
+        <button type="button" id="move-dialog-confirm" class="edit-form-submit">✅ Move</button>
+        <button type="button" id="move-dialog-cancel" class="edit-form-cancel">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Screen reader live region for edit mode announcements -->
+  <div id="edit-live-region" class="sr-only" aria-live="assertive" aria-atomic="true"></div>
 
   <!-- Footer -->
   <footer class="site-footer" role="contentinfo">
