@@ -308,45 +308,76 @@ function layoutFamily(family, startX, startY, placed, filterLine) {
   // Children
   const childFamilies = getChildFamilies(family, filterLine);
   let maxX = wifeX + NODE_WIDTH;
-  let childrenStartX = startX;
 
   if (childFamilies.length > 0) {
     const parentCenterX = husbandX + (wife ? (NODE_WIDTH + COUPLE_GAP) / 2 : NODE_WIDTH / 2);
     const parentBottomY = coupleY + NODE_HEIGHT;
     const childY = coupleY + NODE_HEIGHT + V_GAP;
 
-    // Layout each child (may have their own families)
+    // Separate children into those with subtrees vs leaf children
+    const subtreeChildren = [];
+    const leafChildren = [];
+    for (const entry of childFamilies) {
+      const child = getPerson(entry.childId);
+      if (!child) continue;
+      if (entry.childFam) {
+        subtreeChildren.push(entry);
+      } else {
+        leafChildren.push(entry);
+      }
+    }
+
     let childX = startX;
     const childPositions = [];
 
-    for (const { childId, childFam } of childFamilies) {
-      const child = getPerson(childId);
-      if (!child) continue;
+    // Layout children with subtrees first (they need horizontal space)
+    for (const { childId, childFam } of subtreeChildren) {
+      const childResult = layoutFamily(childFam, childX, childY, placed, filterLine);
+      nodes.push(...childResult.nodes);
+      connections.push(...childResult.connections);
+      couples.push(...childResult.couples);
 
-      if (childFam) {
-        // This child has their own family - recurse
-        const childResult = layoutFamily(childFam, childX, childY, placed, filterLine);
-        nodes.push(...childResult.nodes);
-        connections.push(...childResult.connections);
-        couples.push(...childResult.couples);
+      const childNodePos = childResult.nodes.find(n => n.personId === childId);
+      if (childNodePos) {
+        childPositions.push({ x: childNodePos.x + NODE_WIDTH / 2, y: childNodePos.y });
+      }
 
-        const childNodePos = childResult.nodes.find(n => n.personId === childId);
-        if (childNodePos) {
-          childPositions.push({ x: childNodePos.x + NODE_WIDTH / 2, y: childNodePos.y });
-        }
+      childX = childResult.maxX + H_GAP;
+      maxX = Math.max(maxX, childResult.maxX);
+    }
 
-        childX = childResult.maxX + H_GAP;
-        maxX = Math.max(maxX, childResult.maxX);
-      } else {
-        // Leaf child - no family of their own
-        if (!placed.has(childId)) {
-          nodes.push({ personId: childId, x: childX, y: childY, person: child });
-          placed.add(childId);
-          childPositions.push({ x: childX + NODE_WIDTH / 2, y: childY });
-          childX += NODE_WIDTH + H_GAP;
-          maxX = Math.max(maxX, childX);
+    // Layout leaf children in a compact multi-column grid
+    // Use 2-3 columns depending on count to save horizontal space
+    if (leafChildren.length > 0) {
+      const LEAF_COLS = leafChildren.length >= 6 ? 3 : leafChildren.length >= 3 ? 2 : 1;
+      const LEAF_ROW_GAP = 8;
+
+      let col = 0;
+      let row = 0;
+      for (const { childId } of leafChildren) {
+        if (placed.has(childId)) continue;
+        const child = getPerson(childId);
+        if (!child) continue;
+
+        const lx = childX + col * (NODE_WIDTH + H_GAP / 2);
+        const ly = childY + row * (NODE_HEIGHT + LEAF_ROW_GAP);
+
+        nodes.push({ personId: childId, x: lx, y: ly, person: child });
+        placed.add(childId);
+        childPositions.push({ x: lx + NODE_WIDTH / 2, y: ly });
+
+        maxX = Math.max(maxX, lx + NODE_WIDTH);
+
+        col++;
+        if (col >= LEAF_COLS) {
+          col = 0;
+          row++;
         }
       }
+
+      // Advance childX past the leaf grid
+      childX = Math.max(childX, childX + LEAF_COLS * (NODE_WIDTH + H_GAP / 2));
+      maxX = Math.max(maxX, childX);
     }
 
     // Draw parent-to-children connections
